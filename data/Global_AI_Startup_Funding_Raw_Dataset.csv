@@ -1,0 +1,1221 @@
+Startup_ID,Startup_Name,Funding_Year,Country,Sector,Funding_Stage,Funding_Amount_USD_Million,Valuation_USD_Million,Employees,Investors_Count
+AI0543,Future Tech 543,2020,Singapore,Robotics,Series A,3.42,17.25,9,14
+AI0260,Mind Intelligence 260,2020,Brazil,Agriculture AI,Series A,1.57,9.9,10,12
+AI0044,Astra Intelligence 44,2025,Japan,Autonomous Vehicles,Series C,113.39,848.48,985,2
+AI1011,NexGen Systems 1011,2022,Australia,Agriculture AI,Seed,0.65,2.05,8,17
+AI0755,Orbit Systems 755,2019,France,Generative AI,Late Stage,148.08,1114.66,1044,1
+AI0311,Intelli Robotics 311,2025,Australia,Cybersecurity AI,Series B,19.18,73.44,173,12
+AI0756,Astra Intelligence 756,2023,South Korea,Cybersecurity AI,Series A,1.93,18.29,9,5
+AI0468,Vertex AI 468,2018,Brazil,NLP,Seed,0.96,4.6,3,11
+AI0211,Cognify Systems 211,2024,Netherlands,AI Infrastructure,Series B,11.95,61.03,123,12
+AI0156,Logic Systems 156,2019,UAE,Generative AI,Series C,16.0,57.96,72,10
+AI1109,Data Labs 1109,2023,UAE,Computer Vision,Series C,93.32,711.01,379,12
+AI0712,Logic Robotics 712,2019,Brazil,Generative AI,Seed,0.71,8.36,11,11
+AI0410,Cognify Robotics 410,2023,Brazil,Retail AI,Series B,28.74,304.76,200,7
+AI0495,NexGen AI 495,2022,Canada,EdTech AI,Seed,1.4,9.05,7,13
+AI0701,Neural Systems 701,2019,South Korea,Robotics,Seed,1.41,6.88,3,7
+AI0524,Intelli Tech 524,2024,Canada,Computer Vision,Pre-Seed,0.44,2.04,4,3
+AI0810,Mind Analytics 810,2022,Netherlands,Robotics,Seed,0.86,9.8,9,15
+AI0553,Deep Tech 553,2022,Germany,Cybersecurity AI,Series D,74.55,792.36,543,11
+AI0754,Cognify Systems 754,2019,Netherlands,Autonomous Vehicles,Series B,26.63,211.62,127,1
+AI0424,Mind Labs 424,2020,Canada,EdTech AI,Seed,0.4,2.19,5,2
+AI0381,Orbit Tech 381,2025,Canada,EdTech AI,Series D,211.34,1724.3,956,5
+AI0962,Cognify AI 962,2018,France,Healthcare AI,Seed,0.52,5.06,4,13
+AI1151,Future Intelligence 1151,2022,Netherlands,NLP,Pre-Seed,0.55,4.43,6,14
+AI0353,Nova Analytics 353,2018,India,Marketing AI,Pre-Seed,0.19,1.55,13,14
+AI0299,Core AI 299,2022,Singapore,Marketing AI,Seed,0.84,3.45,11,17
+AI1032,Astra Systems 1032,2025,Brazil,Autonomous Vehicles,Seed,1.03,6.15,14,16
+AI0425,Synth AI 425,2025,UK,EdTech AI,Pre-Seed,0.43,2.79,7,16
+AI0989,Deep Analytics 989,2019,India,Robotics,Pre-Seed,0.25,1.6,3,1
+AI0332,Core Robotics 332,2018,Brazil,Retail AI,Series D,35.31,139.4,124,4
+AI0129,Orbit Tech 129,2021,Australia,Robotics,Seed,1.12,6.01,11,5
+AI0535,NexGen AI 535,2020,Switzerland,Climate AI,Series B,13.56,141.33,167,4
+AI0108,Future Analytics 108,2021,China,AI Infrastructure,Series A,1.28,11.49,68,13
+AI0372,Vertex Labs 372,2025,Germany,Cybersecurity AI,Seed,2.39,10.52,14,2
+AI0606,Synth Labs 606,2020,Germany,Generative AI,Series A,3.8,11.66,6,6
+AI0903,Vision Robotics 903,2023,UK,Climate AI,Seed,1.21,13.85,5,11
+AI0079,Astra Intelligence 79,2024,Germany,Legal AI,Series B,17.52,201.4,66,16
+AI1140,Astra Robotics 1140,2018,USA,Healthcare AI,Series B,31.38,158.49,268,7
+AI0618,Logic Systems 618,2025,Netherlands,Generative AI,Series A,4.06,41.71,57,5
+AI0077,Deep Analytics 77,2021,USA,Retail AI,Seed,2.77,25.31,21,2
+AI0773,Vision Analytics 773,2018,Israel,Robotics,Seed,1.4,14.97,16,9
+AI0045,Core Analytics 45,2021,India,AI Infrastructure,Series C,41.34,347.43,626,7
+AI0644,NexGen Labs 644,2018,UK,Cybersecurity AI,Series B,23.5,126.77,487,17
+AI0970,Nova Labs 970,2020,USA,Computer Vision,Late Stage,218.97,825.6,2410,12
+AI0114,NexGen Intelligence 114,2023,Netherlands,FinTech AI,Series C,51.1,155.95,209,15
+AI0436,Intelli Labs 436,2025,South Korea,Healthcare AI,Series B,86.06,276.41,693,11
+AI0266,Logic Robotics 266,2019,South Korea,Generative AI,Series A,3.95,46.11,26,6
+AI0574,Core Tech 574,2019,Singapore,NLP,Seed,0.73,8.69,12,8
+AI1081,Nova Tech 1081,2020,China,EdTech AI,Seed,3.73,24.76,23,10
+AI1085,Vision AI 1085,2023,Canada,Agriculture AI,Series C,39.98,217.44,383,4
+AI1070,Mind Systems 1070,2022,Canada,AI Infrastructure,Series A,0.85,10.2,15,8
+AI0479,Deep Robotics 479,2018,Israel,Healthcare AI,Series D,10.01,59.79,192,16
+AI0241,Orbit Tech 241,2019,South Korea,Healthcare AI,Series C,36.66,425.45,773,16
+AI0193,Cognify Robotics 193,2018,Canada,Cybersecurity AI,Series D,56.89,665.83,1139,13
+AI0421,Synth Intelligence 421,2019,USA,Legal AI,,2.14,7.68,11,15
+AI0790,Future AI 790,2024,Australia,Healthcare AI,Series B,5.27,55.5,47,4
+AI0887,Logic Labs 887,2018,Israel,Climate AI,Series C,36.8,377.22,357,14
+AI0298,Quantum Systems 298,2024,Israel,Marketing AI,Seed,3.48,32.63,34,4
+AI0865,Synth Tech 865,2021,UAE,EdTech AI,Series D,37.13,172.67,467,12
+AI0592,Intelli Intelligence 592,2025,Israel,Cybersecurity AI,Series D,192.84,2187.19,557,14
+AI0082,Vision Systems 82,2021,Israel,Legal AI,Series D,110.89,1175.74,1418,7
+AI1166,Intelli Tech 1166,2019,China,NLP,Series B,12.17,48.91,119,14
+AI0746,Vertex Intelligence 746,2019,Brazil,Computer Vision,Series D,71.02,690.65,1083,7
+AI0050,NexGen AI 50,2023,Israel,Generative AI,Series B,10.96,40.36,391,5
+AI0351,Alpha Systems 351,2021,Australia,Autonomous Vehicles,Seed,1.97,7.01,21,15
+AI0679,Synth Robotics 679,2019,UK,Autonomous Vehicles,Series B,19.77,204.86,105,5
+AI0411,Synth Intelligence 411,2020,Canada,Marketing AI,Series C,29.42,259.92,209,4
+AI0904,Vision Robotics 904,2024,Japan,Robotics,Pre-Seed,0.64,3.13,11,8
+AI0152,Intelli Labs 152,2020,Brazil,EdTech AI,Series D,227.6,2033.45,1228,8
+AI0932,Alpha Robotics 932,2021,Switzerland,Agriculture AI,Series C,15.76,71.6,293,15
+AI0988,Vision Tech 988,2021,Singapore,Climate AI,Series C,13.72,146.12,55,14
+AI0363,Nova Intelligence 363,2018,South Korea,Computer Vision,Pre-Seed,0.15,1.73,42,16
+AI0345,NexGen Labs 345,2020,France,EdTech AI,Series A,9.55,93.81,36,3
+AI0071,Mind AI 71,2019,Japan,Climate AI,Seed,0.44,4.78,14,13
+AI0910,Vertex Intelligence 910,2023,Canada,Legal AI,Series A,7.61,42.59,90,12
+AI0024,Quantum Systems 24,2025,UK,Climate AI,Pre-Seed,0.96,9.08,36,5
+AI0102,Neural Analytics 102,2019,UAE,Autonomous Vehicles,Series A,1.4,7.17,30,11
+AI0707,Deep Intelligence 707,2021,South Korea,Computer Vision,Series C,25.42,116.61,186,6
+AI0059,Alpha Analytics 59,2020,Brazil,Healthcare AI,Late Stage,94.5,777.41,526,12
+AI0645,Mind Systems 645,2025,Canada,Marketing AI,Series C,95.99,1134.59,1675,3
+AI1122,Intelli AI 1122,2020,France,Marketing AI,Seed,0.53,3.72,36,4
+AI1106,Vertex Labs 1106,2021,Japan,FinTech AI,Pre-Seed,0.15,1.67,3,5
+AI0362,NexGen Tech 362,2018,Israel,Marketing AI,Series B,7.41,64.61,43,4
+AI1165,Nova Systems 1165,2022,France,AI Infrastructure,Series A,3.99,36.25,26,4
+AI0219,Vision AI 219,2025,Switzerland,Retail AI,Pre-Seed,1.15,4.65,17,1
+AI0297,Core Tech 297,2023,UAE,NLP,Series B,6.5,56.26,56,17
+AI0965,Synth AI 965,2024,Australia,Robotics,Series A,3.23,30.97,13,2
+AI0482,NexGen Systems 482,2023,,Agriculture AI,Pre-Seed,0.42,4.89,13,7
+AI0232,Vertex Labs 232,2021,France,Agriculture AI,Series A,5.43,42.91,43,13
+AI0765,Cognify Intelligence 765,2022,UK,AI Infrastructure,Series A,4.17,27.84,13,2
+AI0948,Intelli Intelligence 948,2025,Netherlands,EdTech AI,Late Stage,361.77,3490.81,1938,9
+AI0902,Mind Intelligence 902,2021,China,Autonomous Vehicles,Seed,0.92,10.87,16,1
+AI0052,Core Labs 52,2023,China,AI Infrastructure,Series A,10.58,104.03,195,5
+AI0582,Mind Tech 582,2018,Singapore,Retail AI,Series A,11.95,80.98,183,17
+AI1027,Astra Labs 1027,2019,Canada,Autonomous Vehicles,Series D,59.34,547.32,1041,5
+AI0554,Logic Tech 554,2021,France,EdTech AI,Series B,62.04,295.81,719,17
+AI0486,Future Systems 486,2023,South Korea,NLP,Series A,14.73,150.85,141,17
+AI1167,Future Tech 1167,2022,France,EdTech AI,Series B,8.06,50.6,290,4
+AI0110,Astra AI 110,2024,China,NLP,Late Stage,158.78,1359.26,4671,8
+AI0619,Deep Labs 619,2024,India,Cybersecurity AI,Pre-Seed,0.15,1.19,7,10
+AI0124,NexGen Labs 124,2024,UAE,AI Infrastructure,Series B,42.75,474.49,281,16
+AI0055,NexGen Tech 55,2024,UK,Computer Vision,Series A,10.35,36.15,138,3
+AI0918,Orbit AI 918,2021,Canada,Legal AI,Series A,4.81,49.91,23,16
+AI0711,Orbit Systems 711,2024,Canada,AI Infrastructure,Series D,50.1,202.41,182,4
+AI0129,Orbit Tech 129,2021,Australia,Robotics,Seed,1.12,6.01,11,5
+AI0057,Neural Analytics 57,2025,Singapore,Retail AI,Series A,17.26,176.65,40,4
+AI0087,Logic Robotics 87,2023,South Korea,Cybersecurity AI,Series B,17.54,104.16,142,2
+AI0716,Vision Analytics 716,2025,Switzerland,Generative AI,Series A,,55.66,32,7
+AI0927,Synth AI 927,2022,Netherlands,FinTech AI,Seed,0.74,5.52,23,11
+AI0276,Logic Analytics 276,2021,France,EdTech AI,Late Stage,183.65,1808.5,1656,14
+AI1183,Astra Systems 1183,2025,UK,Healthcare AI,Series A,7.0,43.25,92,10
+AI0448,Orbit Intelligence 448,2023,USA,Healthcare-AI,Series C,54.92,215.89,668,8
+AI0171,Synth Robotics 171,2025,India,EdTech AI,Seed,1.42,9.06,26,17
+AI0882,Data AI 882,2023,South Korea,Cybersecurity AI,Pre-Seed,0.63,2.74,3,10
+AI0911,Logic Intelligence 911,2020,China,Legal AI,Seed,1.9,9.43,63,4
+AI1134,Future Systems 1134,2024,France,Marketing AI,Seed,1.32,15.31,7,15
+AI0322,Core AI 322,2022,India,Climate AI,Series C,60.95,684.91,378,5
+AI0561,Future Robotics 561,2021,Germany,NLP,Series D,18.29,176.18,149,12
+AI0433,Quantum Robotics 433,2022,Germany,Robotics,Seed,1.75,17.72,17,9
+AI0429,Vertex Labs 429,2018,South Korea,Robotics,Pre-Seed,0.15,0.83,17,14
+AI0637,Deep Systems 637,2018,USA,Generative AI,Seed,0.37,3.46,12,11
+AI0981,Nova Intelligence 981,2021,India,Marketing AI,Pre-Seed,1.21,12.65,7,11
+AI0893,Core AI 893,2018,UK,Robotics,Series C,65.46,672.38,632,12
+AI0650,Deep Tech 650,2022,Canada,,Series A,2.79,8.8,25,16
+AI1132,Astra Analytics 1132,2019,Israel,AI Infrastructure,Series B,7.52,23.98,37,11
+AI1024,Vertex Intelligence 1024,2019,USA,Healthcare AI,Series A,1.78,5.52,24,10
+AI0414,Mind Systems 414,2018,Germany,Legal AI,Series A,1.49,11.24,14,11
+AI0739,Cognify Systems 739,2022,USA,,Seed,1.23,6.63,10,13
+AI0462,Logic AI 462,2022,Israel,EdTech AI,Pre-Seed,0.32,1.41,3,17
+AI0434,Quantum Labs 434,2025,France,Healthcare AI,Seed,0.81,7.35,23,12
+AI0876,Synth AI 876,2020,Israel,EdTech AI,Pre-Seed,0.26,2.06,3,14
+AI0781,Mind Analytics 781,2018,Germany,Agriculture AI,Series B,10.19,56.9,37,10
+AI0378,Deep Systems 378,2018,Israel,Retail AI,Series A,4.11,39.59,78,14
+AI0287,Nova Labs 287,2018,Australia,Generative AI,Series D,76.86,388.79,942,1
+AI0895,Vertex AI 895,2021,Israel,Legal AI,Series B,12.37,122.24,212,13
+AI0877,Neural Labs 877,2019,UK,Generative AI,Series A,1.7,6.38,22,15
+AI0234,Alpha Labs 234,2021,India,Climate AI,Seed,0.75,7.88,19,13
+AI0763,Future AI 763,2022,Singapore,EdTech AI,Seed,1.12,4.24,17,2
+AI0813,Neural AI 813,2018,Israel,EdTech AI,Seed,0.81,8.74,4,9
+AI1042,Synth Tech 1042,2019,Switzerland,Cybersecurity AI,Series C,12.49,70.33,201,8
+AI0725,Mind Labs 725,2018,Israel,Computer Vision,Series A,4.42,15.86,45,12
+AI0901,Quantum Robotics 901,2022,UAE,FinTech AI,Series C,32.9,168.91,211,10
+AI0846,Vertex Labs 846,2022,Brazil,Robotics,Series B,14.46,157.29,90,13
+AI0993,Alpha Tech 993,2019,Brazil,Robotics,Series B,8.48,82.48,77,13
+AI1012,Astra AI 1012,2022,,AI Infrastructure,Series A,2.93,28.27,17,13
+AI0717,Logic Analytics 717,2020,Germany,Cybersecurity AI,Series B,23.14,215.64,84,2
+AI0267,Nova Systems 267,2021,South Korea,NLP,Seed,0.75,8.04,8,10
+AI0200,Cognify AI 200,2020,South Korea,Robotics,Late Stage,168.76,833.61,1055,15
+AI0175,Core Robotics 175,2025,India,Legal AI,Seed,0.39,4.51,11,10
+AI0359,Astra Labs 359,2018,Japan,Climate AI,Series A,7.94,50.91,72,2
+AI0148,Logic Analytics 148,2020,China,EdTech AI,Seed,0.31,0.95,11,13
+AI1093,Data Systems 1093,2025,India,Retail AI,Series A,4.76,18.48,30,16
+AI0947,Data Labs 947,2022,Australia,Generative AI,Pre-Seed,0.15,1.2,5,15
+AI0443,Orbit Labs 443,2018,UAE,Climate AI,Series D,160.74,1205.94,4570,10
+AI0708,Quantum Labs 708,2025,South Korea,Healthcare AI,Series A,11.56,92.29,102,15
+AI0399,Quantum Intelligence 399,2025,Brazil,NLP,Seed,0.97,5.92,7,17
+AI0719,Vision Labs 719,2025,South Korea,Marketing AI,Series C,45.99,439.46,705,9
+AI0515,Orbit Tech 515,2019,UK,Cybersecurity AI,Pre-Seed,0.46,3.09,30,3
+AI1186,Astra Analytics 1186,2021,UAE,Cybersecurity AI,Series B,17.22,154.77,71,7
+AI0328,Orbit Intelligence 328,2024,Germany,Autonomous Vehicles,Series B,8.1,41.18,39,17
+AI0874,Cognify Labs 874,2018,Australia,EdTech AI,Series B,16.72,134.68,108,8
+AI0771,Intelli Labs 771,2022,USA,FinTech AI,Series A,3.37,27.47,48,7
+AI0169,Quantum Analytics 169,2024,Canada,Legal AI,Pre-Seed,1.1,8.88,36,2
+AI0210,Nova Analytics 210,2022,UAE,NLP,Pre-Seed,0.29,1.21,17,8
+AI1092,Cognify Robotics 1092,2024,USA ,Climate AI,Pre-Seed,0.71,3.86,48,11
+AI0136,Mind Systems 136,2022,Germany,Cybersecurity AI,Series B,9.0,34.1,30,9
+AI0185,Vertex Labs 185,2018,Brazil,Cybersecurity AI,Seed,2.31,12.98,15,15
+AI0721,Nova Systems 721,2019,UAE,AI Infrastructure,Pre-Seed,0.15,0.52,3,17
+AI0465,Nova AI 465,2021,France,Agriculture AI,Series B,16.1,149.43,98,4
+AI0693,Future Analytics 693,2022,Israel,EdTech AI,Series B,11.73,47.19,103,3
+AI0159,Orbit AI 159,2018,France,Computer Vision,Seed,0.97,10.35,11,9
+AI0141,Neural Tech 141,2025,India,AI Infrastructure,Seed,0.91,2.94,8,15
+AI0428,Vision Systems 428,2021,Netherlands,Agriculture AI,Series C,23.84,120.02,291,8
+AI0992,Vertex Analytics 992,2021,Netherlands,Generative AI,Seed,0.65,6.96,10,14
+AI0529,Core AI 529,2019,China,Retail AI,Late Stage,101.6,1107.97,4099,13
+AI1147,Vertex Intelligence 1147,2024,Singapore,Generative AI,Late Stage,557.8,6300.96,3906,15
+AI0248,Data Tech 248,2018,Canada,Computer Vision,Series B,36.83,112.5,456,6
+AI0382,NexGen Intelligence 382,2023,France,Legal AI,Series D,54.79,164.69,246,10
+AI0458,Orbit Systems 458,2025,USA,Cybersecurity AI,Series B,56.91,357.62,661,11
+AI1095,Mind Labs 1095,2019,India,Climate AI,Series B,11.47,128.86,313,14
+AI1010,Quantum Intelligence 1010,2025,Switzerland,Healthcare AI,Series D,107.94,491.69,625,5
+AI1143,Logic Tech 1143,2025,Netherlands,AI Infrastructure,Series A,16.31,111.61,156,17
+AI0364,Nova Intelligence 364,2019,Japan,Retail AI,Series A,13.81,154.52,81,13
+AI0209,Vertex Tech 209,2023,USA,Agriculture AI,Series B,14.51,156.9,118,2
+AI0983,Mind Robotics 983,2021,France,Autonomous Vehicles,Series B,17.63,189.79,148,7
+AI0807,Logic Labs 807,2025,South Korea,Marketing AI,Seed,1.03,9.24,19,7
+AI0164,Intelli Labs 164,2021,Israel,Retail AI,Series A,7.98,37.46,163,9
+AI0423,Intelli Robotics 423,2023,Israel,EdTech AI,Series B,40.95,142.15,226,3
+AI0964,Core AI 964,2024,Israel,Marketing AI,Seed,1.09,10.75,8,5
+AI0157,Quantum Systems 157,2024,Singapore,Retail AI,Seed,2.32,17.82,18,2
+AI0329,NexGen Robotics 329,2025,Netherlands,FinTech AI,Series A,8.57,77.93,55,17
+AI1197,Logic Analytics 1197,2019,Brazil,Climate AI,Series B,12.18,134.6,285,13
+AI0221,NexGen Intelligence 221,2020,UAE,Healthcare AI,Series B,20.3,170.3,198,14
+AI0197,Synth Systems 197,2019,Australia,Legal AI,Seed,0.54,6.04,29,15
+AI1001,Core Analytics 1001,2023,India,Agriculture AI,Late Stage,338.61,1163.33,2453,12
+AI0533,Astra Intelligence 533,2018,USA,EdTech AI,Series A,3.02,22.06,110,3
+AI0295,Synth Robotics 295,2019,UAE,FinTech AI,Series B,31.46,266.98,184,5
+AI0199,Neural AI 199,2022,Netherlands,Robotics,Series B,32.61,118.27,125,7
+AI0368,Neural Tech 368,2019,France,Robotics,Series D,67.56,485.41,567,14
+AI0942,Deep Robotics 942,2022,Brazil,Retail AI,Series B,33.64,365.61,192,14
+AI0558,Astra Systems 558,2023,Australia,Generative AI,Series A,9.77,84.08,39,12
+AI0653,Astra Robotics 653,2024,Switzerland,FinTech AI,Series A,9.56,40.52,91,9
+AI0668,Neural Robotics 668,2021,UAE,FinTech AI,Pre-Seed,0.23,2.03,18,3
+AI0291,Mind Intelligence 291,2018,South Korea,Legal AI,Series B,4.81,52.53,21,1
+AI0631,Vision Labs 631,2018,UAE,Legal AI,Series B,61.52,563.12,840,10
+AI0990,Quantum Tech 990,2025,UAE,Agriculture AI,Series C,38.02,170.87,483,9
+AI0977,Future Tech 977,2025,South Korea,EdTech AI,Seed,1.74,18.66,20,7
+AI0539,Intelli AI 539,2022,Brazil,Autonomous Vehicles,Seed,0.62,2.7,8,1
+AI0528,Synth Tech 528,2019,India,Climate AI,Pre-Seed,0.67,7.6,10,11
+AI0097,Future AI 97,2019,Brazil,FinTech AI,Series A,3.79,32.05,23,15
+AI0466,Nova Intelligence 466,2024,UK,Legal AI,Series D,28.46,291.11,414,11
+AI0848,Mind AI 848,2019,Singapore,Marketing AI,Series C,21.82,86.29,199,1
+AI0179,Mind Robotics 179,2018,Australia,Marketing AI,Series C,17.56,187.5,102,11
+AI0032,Deep AI 32,2018,Israel,Robotics,Seed,0.48,5.7,8,17
+AI0837,Vision Robotics 837,2020,Canada,Healthcare AI,Series A,4.15,16.66,16,9
+AI0885,Nova Systems 885,2025,Israel,Cybersecurity AI,Series C,67.02,271.97,654,8
+AI0917,Future Intelligence 917,2019,India,Robotics,Series D,50.57,427.35,184,17
+AI0571,NexGen Intelligence 571,2023,Netherlands,Autonomous Vehicles,Series B,23.83,99.64,322,15
+AI0245,Logic Tech 245,2024,UK,FinTech AI,Series B,14.3,44.73,199,1
+AI0334,Vision Tech 334,2020,Israel,Climate AI,Series A,9.57,88.67,16,15
+AI1198,Vertex Labs 1198,2020,India,Cybersecurity AI,Seed,0.67,2.36,4,1
+AI0753,Vertex Labs 753,2019,USA,Healthcare-AI,Seed,0.98,4.3,4,4
+AI0089,Deep Labs 89,2021,,Legal AI,Series C,25.4,100.09,152,11
+AI1002,Mind Analytics 1002,2024,France,AI Infrastructure,Series D,204.96,1449.25,1490,5
+AI0383,Future AI 383,2021,Germany,Robotics,Series B,13.68,84.28,50,17
+AI0366,Data Robotics 366,2024,Singapore,Fin Tech AI,Pre-Seed,0.45,3.85,9,16
+AI1136,Vision AI 1136,2020,South Korea,Marketing AI,Series A,1.48,12.74,5,4
+AI1059,NexGen Tech 1059,2023,France,EdTech AI,Series A,12.8,123.19,315,6
+AI0599,Vertex Labs 599,2021,Israel,EdTech AI,Series B,16.83,171.19,34,13
+AI0579,Synth Robotics 579,2019,UAE,Robotics,Series B,26.39,182.34,153,11
+AI0824,Core Intelligence 824,2024,Australia,Fin Tech AI,Series A,8.81,27.15,58,14
+AI0591,Cognify Tech 591,2018,Canada,Marketing AI,Series C,25.24,197.34,371,12
+AI0530,Quantum Robotics 530,2019,Brazil,Legal AI,Seed,0.45,2.59,13,5
+AI1047,Alpha Systems 1047,2020,UK,Marketing AI,Pre-Seed,0.2,1.28,6,13
+AI0550,Astra Labs 550,2024,China,AI Infrastructure,Seed,2.52,20.05,27,14
+AI0674,Vision Labs 674,2023,Canada,Robotics,Series C,31.82,326.01,374,5
+AI0921,Intelli Analytics 921,2022,South Korea,Computer Vision,Series A,2.37,16.26,14,4
+AI0536,Core AI 536,2023,,EdTech AI,Seed,2.55,21.45,8,9
+AI0011,Cognify Robotics 11,2020,Switzerland,Generative AI,Seed,1.13,9.03,11,8
+AI1089,Cognify Tech 1089,2025,South Korea,Computer Vision,Series A,6.84,45.93,24,15
+AI0940,Synth Robotics 940,2019,Singapore,NLP,Series A,2.35,25.97,78,10
+AI0244,Neural Robotics 244,2018,Australia,EdTech AI,Series B,24.28,145.72,267,3
+AI0060,Logic AI 60,2022,Switzerland,EdTech AI,Series A,13.96,71.88,79,3
+AI1076,Vision Intelligence 1076,2022,Israel,Autonomous Vehicles,Series A,13.74,105.85,118,3
+AI0064,Orbit Labs 64,2018,UK,Retail AI,Series A,5.42,47.02,60,17
+AI1188,Neural Robotics 1188,2018,Australia,Generative AI,Series A,5.37,37.19,26,8
+AI0278,Synth AI 278,2023,Brazil,Generative AI,Late Stage,34.58,308.91,408,9
+AI0724,Nova Labs 724,2018,Brazil,Climate AI,Pre-Seed,0.17,1.36,10,10
+AI0603,Future Analytics 603,2021,South Korea,Legal AI,Series B,10.95,120.46,159,2
+AI0680,Vision Robotics 680,2019,Singapore,Generative AI,Series A,7.76,41.5,88,13
+AI1170,Orbit Analytics 1170,2020,Brazil,Generative AI,Seed,1.36,14.59,16,14
+AI0307,Vertex Robotics 307,2021,Japan,Computer Vision,Series A,4.26,38.77,22,2
+AI0290,Orbit Systems 290,2025,Australia,NLP,Series D,37.58,199.08,345,16
+AI0815,Alpha Intelligence 815,2021,UAE,Climate AI,Pre-Seed,0.29,1.29,10,9
+AI0598,Core Intelligence 598,2024,Singapore,Robotics,Seed,6.91,34.85,53,14
+AI0600,Synth Systems 600,2023,France,Generative AI,Seed,0.44,1.36,10,7
+AI0271,Astra Labs 271,2023,Netherlands,Agriculture AI,Series B,12.89,149.77,100,9
+AI1004,Deep Intelligence 1004,2018,Canada,Autonomous Vehicles,Series A,4.58,27.12,94,14
+AI0552,Cognify Analytics 552,2021,India,Robotics,Seed,1.27,7.51,20,8
+AI0309,NexGen AI 309,2025,Australia,Computer Vision,Series A,8.69,69.49,71,9
+AI0293,Quantum Tech 293,2018,Israel,Healthcare AI,Series A,3.59,28.42,44,9
+AI0527,Astra Tech 527,2020,Netherlands,Healthcare AI,Pre-Seed,0.23,2.18,4,16
+AI0324,Quantum Labs 324,2019,Japan,Agriculture AI,Late Stage,70.31,224.81,177,4
+AI0084,Cognify AI 84,2025,UAE,Agriculture AI,Series B,36.13,249.27,94,13
+AI0130,Nova Systems 130,2021,Israel,FinTech AI,Seed,0.66,2.38,4,17
+AI1111,Astra Robotics 1111,2018,,Autonomous Vehicles,Series B,45.46,489.47,205,8
+AI0487,Vertex Labs 487,2020,UK,FinTech AI,Series B,43.14,369.59,257,16
+AI1102,Orbit Intelligence 1102,2019,,Healthcare AI,Series A,4.68,53.79,45,4
+AI0943,Neural Labs 943,2025,UAE,Computer Vision,Series C,30.82,219.17,254,15
+AI0261,NexGen Systems 261,2018,Israel,NLP,Seed,0.2,1.86,23,9
+AI0768,Nova Robotics 768,2025,France,Robotics,Pre-Seed,0.48,4.07,22,13
+AI0951,Data Labs 951,2020,South Korea,EdTech AI,Series A,1.76,13.09,18,2
+AI0907,Intelli Analytics 907,2019,India,Legal AI,Late Stage,209.74,656.66,6466,16
+AI1099,Vertex Intelligence 1099,2023,Brazil,Marketing AI,Series A,3.69,20.72,66,17
+AI0139,Cognify Tech 139,2024,Germany,NLP,Series C,35.63,413.91,200,10
+AI0954,Deep AI 954,2021,Israel,Robotics,Seed,0.82,8.65,7,4
+AI0142,Quantum Analytics 142,2018,South Korea,Agriculture AI,Late Stage,29.75,224.76,156,6
+AI0666,Synth Tech 666,2022,India,Fin Tech AI,Series D,32.72,372.04,238,9
+AI0845,Alpha Robotics 845,2022,UAE,Computer Vision,Pre-Seed,0.22,1.65,4,15
+AI0395,Orbit Tech 395,2020,USA,Agriculture AI,Pre-Seed,0.24,2.88,11,16
+AI0140,Astra AI 140,2018,India,Climate AI,Seed,0.41,4.56,12,14
+AI0742,Vision Tech 742,2023,India ,FinTech AI,Series A,8.75,35.08,66,16
+AI0866,Nova Tech 866,2018,France,FinTech AI,Series D,60.04,423.63,532,1
+AI0225,Data Labs 225,2019,Canada,Robotics,Pre-Seed,0.5,4.13,10,12
+AI0614,Nova AI 614,2019,India,Computer Vision,Series A,3.51,21.08,8,11
+AI0275,NexGen Robotics 275,2018,Australia,Healthcare AI,Seed,0.39,4.58,9,2
+AI0356,Data Analytics 356,2024,Japan,Marketing AI,Series C,24.4,78.13,166,11
+AI0888,Data Analytics 888,2023,Brazil,Marketing AI,Series D,37.17,261.55,204,16
+AI0594,Nova Analytics 594,2021,Australia,FinTech AI,Series A,6.89,36.74,8,12
+AI0677,Alpha Analytics 677,2021,Germany,Climate AI,Series A,5.73,43.17,33,6
+AI0590,Nova Systems 590,2022,China,Generative AI,Series B,13.93,47.69,116,8
+AI0890,Neural AI 890,2018,India,AI Infrastructure,Series B,10.9,121.15,163,7
+AI0744,Core Systems 744,2022,France,Autonomous Vehicles,Series D,34.57,266.87,231,7
+AI1041,Mind Intelligence 1041,2022,India,Cybersecurity AI,Seed,0.42,2.74,21,1
+AI0507,Data Labs 507,2025,Canada,Marketing AI,Seed,1.34,5.03,9,7
+AI0597,Astra Intelligence 597,2022,Germany,Legal AI,Series B,19.69,228.46,127,7
+AI0310,Core Tech 310,2023,South Korea,Generative AI,Pre-Seed,0.52,5.04,49,2
+AI0667,Intelli Analytics 667,2023,Japan,NLP,Pre-Seed,0.87,9.87,9,2
+AI1075,Nova Intelligence 1075,2018,Netherlands,EdTech AI,Seed,0.95,4.81,9,10
+AI1173,NexGen Robotics 1173,2020,Australia,Robotics,Series B,8.4,64.25,39,6
+AI0937,NexGen Robotics 937,2023,France,Healthcare-AI,Seed,0.84,4.61,7,16
+AI0868,Neural Robotics 868,2023,Japan,Computer Vision,Series D,38.26,203.33,223,17
+AI0412,Neural Labs 412,2025,Singapore,Fin Tech AI,Seed,2.44,28.49,17,3
+AI0040,Logic Analytics 40,2020,Japan,Robotics,Seed,1.88,10.18,4,5
+AI0031,Cognify Analytics 31,2022,USA,Computer Vision,Series A,16.63,51.85,276,17
+AI0243,Vertex Analytics 243,2021,Switzerland,Marketing AI,Seed,,20.21,23,11
+AI0463,Neural Robotics 463,2023,Germany,Legal AI,Series A,2.1,18.8,6,6
+AI0137,Nova Tech 137,2018,Germany,FinTech AI,Seed,1.07,8.75,7,5
+AI1009,Data Intelligence 1009,2021,Australia,Autonomous Vehicles,Series A,2.59,30.01,13,9
+AI0959,Astra AI 959,2019,USA,Marketing AI,Series A,1.53,5.3,5,3
+AI0004,Orbit Labs 4,2024,Australia,Climate AI,Pre-Seed,0.7,7.79,5,14
+AI0714,NexGen Intelligence 714,2021,Netherlands,Healthcare AI,Series A,15.58,82.57,244,1
+AI1110,Vision Labs 1110,2020,Australia,,Series A,3.3,15.67,57,15
+AI1053,Core Analytics 1053,2020,South Korea,FinTech AI,Series A,4.29,44.84,25,6
+AI0416,Cognify Labs 416,2018,France,Healthcare AI,Series C,13.12,144.88,26,5
+AI0847,Nova AI 847,2019,USA,Marketing AI,Series A,1.78,13.41,19,17
+AI0766,Vision Systems 766,2020,Japan,Healthcare AI,,0.47,2.67,7,2
+AI0944,Nova Robotics 944,2022,UAE,Autonomous Vehicles,Seed,3.29,22.86,22,12
+AI0315,Nova AI 315,2020,Germany,Climate AI,Late Stage,151.44,754.85,1265,9
+AI0498,Astra Analytics 498,2021,Germany,Climate AI,Late Stage,63.74,695.89,981,16
+AI0320,Data Labs 320,2023,Brazil,Legal AI,Seed,1.13,8.43,17,13
+AI1189,Deep Intelligence 1189,2020,UK,Robotics,Seed,0.57,6.14,47,9
+AI0377,NexGen Intelligence 377,2021,South Korea,Agriculture AI,Series B,8.91,90.85,88,16
+AI0006,Intelli Intelligence 6,2025,USA,AI Infrastructure,Seed,0.82,9.0,7,4
+AI0101,Orbit Intelligence 101,2024,Germany,AI Infrastructure,Series A,5.33,62.53,20,2
+AI1046,Vision Robotics 1046,2020,South Korea,Cybersecurity AI,Pre-Seed,0.15,1.22,30,3
+AI0788,Intelli Robotics 788,2025,India,Cybersecurity AI,Seed,1.38,5.67,6,1
+AI0630,Cognify Labs 630,2024,Switzerland,EdTech AI,Series A,8.26,39.1,23,8
+AI0835,Intelli AI 835,2018,Canada,Marketing AI,Series A,4.1,34.64,6,3
+AI0035,Quantum AI 35,2023,Netherlands,Computer Vision,Pre-Seed,0.24,2.62,18,2
+AI0585,Logic Tech 585,2023,Brazil,,Series A,8.69,80.58,65,17
+AI0333,Astra AI 333,2021,South Korea,EdTech AI,Seed,0.72,3.89,6,15
+AI0228,Intelli Systems 228,2023,South Korea,Healthcare AI,Pre-Seed,0.93,7.75,7,17
+AI0430,Intelli Intelligence 430,2021,Germany,Climate AI,Series A,1.42,9.33,7,14
+AI0544,Core Labs 544,2019,Canada,Autonomous Vehicles,Series A,4.39,43.28,61,17
+AI0661,Vertex Tech 661,2025,UAE,Generative AI,Late Stage,76.46,471.42,465,10
+AI0406,Logic AI 406,2021,Israel,,Series A,10.11,104.97,59,6
+AI0067,Data AI 67,2021,Canada,Computer Vision,Seed,0.68,7.2,9,10
+AI0068,NexGen Intelligence 68,2018,Israel,Computer Vision,Series A,3.57,22.66,16,8
+AI0343,Quantum Tech 343,2020,Germany,Agriculture AI,Pre-Seed,0.35,2.25,8,2
+AI0212,Alpha Tech 212,2024,South Korea,Cybersecurity AI,Late Stage,423.69,3201.55,5042,6
+AI0013,Logic AI 13,2020,Switzerland,EdTech AI,Seed,0.38,2.8,11,11
+AI0694,Data Intelligence 694,2021,UAE,Retail AI,Series D,187.84,758.21,2347,15
+AI0669,Future Intelligence 669,2022,Germany,AI Infrastructure,Late Stage,162.69,495.2,1284,12
+AI0300,Astra Tech 300,2025,Netherlands,AI Infrastructure,Seed,2.05,9.05,7,17
+AI0621,Deep Analytics 621,2021,Singapore,Robotics,Series B,28.65,142.66,85,7
+AI0782,Vertex Analytics 782,2020,UK,Marketing AI,Series A,3.47,27.63,13,15
+AI1094,Neural Labs 1094,2024,Japan,Computer Vision,Seed,0.51,2.11,21,12
+AI0452,Deep Intelligence 452,2023,Singapore,Cybersecurity AI,Series A,6.36,37.43,96,15
+AI0863,Nova Analytics 863,2019,France,FinTech AI,Series B,9.16,43.39,119,10
+AI1157,Cognify Systems 1157,2019,South Korea,Robotics,Seed,0.59,6.18,17,16
+AI0821,Neural Intelligence 821,2024,Singapore,Generative AI,Series A,4.37,32.94,39,1
+AI0595,Alpha Labs 595,2021,Singapore,Autonomous Vehicles,Late Stage,108.17,880.25,1144,9
+AI0480,Orbit AI 480,2021,UK,AI Infrastructure,Seed,0.34,2.15,10,11
+AI1139,Future Labs 1139,2021,South Korea,Cybersecurity AI,Seed,0.32,3.28,4,10
+AI0651,Cognify Analytics 651,2024,China,Robotics,Series B,52.04,219.7,420,13
+AI0941,Neural Systems 941,2021,Netherlands,EdTech AI,Series A,2.96,9.16,37,8
+AI0274,Vision Systems 274,2025,UAE,Marketing AI,Series B,11.95,134.57,42,15
+AI0969,Vertex Analytics 969,2023,UAE,FinTech AI,Series A,9.99,94.32,116,4
+AI0238,Data Robotics 238,2023,UAE,Climate AI,Series D,115.45,476.04,716,17
+AI0440,Intelli AI 440,2020,Singapore,Climate AI,Series B,14.43,153.61,60,11
+AI0003,Core Labs 3,2022,USA,Robotics,Pre-Seed,0.34,2.64,10,14
+AI0007,Intelli Tech 7,2022,Netherlands,AI Infrastructure,Series A,13.81,110.74,158,8
+AI0312,Neural Intelligence 312,2024,Switzerland,Healthcare AI,Series B,11.25,90.78,231,9
+AI1048,Orbit AI 1048,2018,Australia,Climate AI,Late Stage,102.12,633.74,1417,6
+AI0586,Synth Intelligence 586,2024,Singapore,Autonomous Vehicles,Series B,16.51,73.09,173,15
+AI0534,Logic Tech 534,2018,Netherlands,NLP,Seed,0.96,9.85,17,7
+AI0632,Mind Systems 632,2021,Netherlands,Robotics,Seed,1.08,11.45,6,16
+AI0216,Intelli Tech 216,2022,Switzerland,Cybersecurity AI,Seed,0.69,7.11,17,7
+AI0454,Vertex Tech 454,2023,South Korea,Agriculture AI,Series A,11.21,76.62,59,6
+AI0028,Vision AI 28,2019,Japan,,Series A,20.83,137.3,234,9
+AI1177,Alpha Labs 1177,2024,Israel,Climate AI,Seed,1.76,11.87,21,14
+AI0804,Orbit Analytics 804,2018,UAE,Robotics,Series A,2.83,14.32,29,15
+AI0391,Cognify Robotics 391,2020,India,Healthcare AI,Pre-Seed,0.26,2.55,23,3
+AI1012,Astra AI 1012,2022,,AI Infrastructure,Series A,2.93,28.27,17,13
+AI0491,Vision Analytics 491,2025,USA,,Seed,0.96,8.02,3,9
+AI1040,Nova Systems 1040,2020,France,Robotics,Series B,9.15,46.95,20,6
+AI0760,Vertex Robotics 760,2024,India,Generative AI,Series A,12.63,85.91,312,8
+AI0555,Vision Analytics 555,2018,Japan,AI Infrastructure,Series B,13.09,75.37,122,14
+AI0355,Cognify Labs 355,2025,Singapore,Healthcare AI,Seed,0.85,3.29,10,12
+AI1069,Core Robotics 1069,2022,South Korea,Climate AI,Seed,0.75,8.88,5,2
+AI0831,Astra Intelligence 831,2022,Canada,Legal AI,Series A,1.43,11.74,8,2
+AI0257,Core Robotics 257,2024,South Korea,Computer Vision,Series B,32.72,346.75,281,10
+AI0292,Neural Intelligence 292,2020,Japan,Computer Vision,Series C,62.52,621.44,249,10
+AI0026,Alpha Robotics 26,2023,Israel,Healthcare AI,Seed,2.05,8.04,45,16
+AI0337,Vertex Labs 337,2022,Canada,Generative AI,Seed,0.17,0.55,11,17
+AI1078,Deep Intelligence 1078,2018,Brazil,FinTech AI,Seed,3.87,45.99,21,8
+AI0048,Neural Robotics 48,2024,China,Healthcare AI,Series B,21.54,106.31,193,4
+AI0319,Nova AI 319,2024,France,Legal AI,Pre-Seed,0.35,2.35,15,1
+AI0107,Nova AI 107,2023,Switzerland,FinTech AI,Series B,14.81,135.89,24,2
+AI0827,Intelli Analytics 827,2020,China,Agriculture AI,Series D,59.55,649.98,241,1
+AI0056,Future Tech 56,2021,China,EdTech AI,Pre-Seed,0.15,0.61,13,2
+AI0542,Core Labs 542,2019,Brazil,EdTech AI,Seed,0.35,3.81,13,4
+AI0214,Nova AI 214,2024,Netherlands,Climate AI,Series A,9.06,50.04,32,17
+AI0121,Neural Labs 121,2025,Switzerland,Robotics,Series B,13.68,56.05,39,11
+AI0584,Vision Tech 584,2019,UK,Retail AI,Series C,6.83,53.44,39,13
+AI0439,Core Robotics 439,2024,USA,Healthcare AI,Series B,6.62,36.29,173,10
+AI0562,Synth Labs 562,2020,Switzerland,NLP,Pre-Seed,0.7,5.14,12,10
+AI0073,Deep Labs 73,2018,Switzerland,Climate AI,Seed,0.42,2.68,11,13
+AI0715,Logic Robotics 715,2025,UAE,Agriculture AI,Series C,127.65,1202.73,1294,1
+AI0772,Deep Systems 772,2022,Israel,Retail AI,Series A,6.36,34.35,67,4
+AI0523,Orbit AI 523,2023,UK,Robotics,Pre-Seed,0.21,0.66,23,12
+AI1084,Intelli Intelligence 1084,2021,Israel,Autonomous Vehicles,Series B,25.37,221.79,178,14
+AI0925,Mind Robotics 925,2018,Israel,Generative AI,Seed,0.92,6.73,7,7
+AI0960,Nova Systems 960,2024,UK,Agriculture AI,Seed,2.18,24.37,7,1
+AI0573,Nova Systems 573,2018,South Korea,Retail AI,Series B,11.3,81.52,77,13
+AI0583,NexGen Systems 583,2021,China,NLP,Pre-Seed,0.6,2.01,22,15
+AI0459,Deep Analytics 459,2020,Israel,Robotics,Series B,7.62,87.4,129,5
+AI1137,Vision AI 1137,2024,,Retail AI,Series A,6.16,37.19,35,15
+AI0326,Future AI 326,2023,India,Generative AI,Seed,1.92,21.01,7,13
+AI1003,Cognify Intelligence 1003,2018,Australia,EdTech AI,Pre-Seed,0.62,5.66,8,8
+AI0980,Vision Tech 980,2023,UK,Generative AI,Series B,9.35,38.55,89,16
+AI0317,Logic Systems 317,2020,Japan,Climate AI,Series B,12.12,103.29,91,9
+AI1067,Quantum Systems 1067,2022,Australia,FinTech AI,Series D,172.94,1091.7,1414,16
+AI0858,Mind Tech 858,2020,Australia,Healthcare AI,Series B,13.84,56.57,64,7
+AI0702,Orbit Systems 702,2025,USA,Legal AI,Pre-Seed,0.25,1.35,8,5
+AI0709,Intelli Labs 709,2025,Canada,Robotics,Series B,36.13,399.03,366,7
+AI1043,Core AI 1043,2024,Netherlands,Robotics,Series C,65.35,207.24,418,5
+AI0537,Logic Robotics 537,2025,South Korea,Retail AI,Seed,3.38,15.6,24,4
+AI0567,Vision AI 567,2019,Australia,Robotics,Series B,5.68,55.76,7,16
+AI0061,Alpha Robotics 61,2020,Switzerland,Computer Vision,Series C,43.2,237.41,986,14
+AI0747,Logic AI 747,2020,UK,Retail AI,Seed,1.21,5.65,6,13
+AI0093,Future Robotics 93,2019,China,Agriculture AI,Series B,55.95,333.53,339,14
+AI0889,Synth AI 889,2021,Brazil,Gen AI,Late Stage,174.16,667.13,723,3
+AI0426,Cognify AI 426,2022,Japan,Agriculture AI,Seed,1.06,7.01,7,7
+AI0352,Logic Systems 352,2018,China,NLP,Seed,0.95,5.98,7,8
+AI0967,Logic Analytics 967,2022,Israel,NLP,Seed,0.91,4.81,5,5
+AI0281,Mind Labs 281,2021,China,Healthcare AI,,6.52,37.73,73,1
+AI0678,NexGen AI 678,2025,USA,FinTech AI,Series A,5.35,45.29,57,3
+AI0431,Alpha Labs 431,2018,Brazil,Autonomous Vehicles,Seed,0.85,8.2,17,4
+AI0360,Vertex Intelligence 360,2020,France,Retail AI,Late Stage,144.16,1202.07,2050,11
+AI0761,Mind Robotics 761,2021,India,Climate AI,Series A,11.8,53.62,105,12
+AI0568,Nova Systems 568,2025,UK,Computer Vision,Pre-Seed,0.71,6.07,9,13
+AI0862,Vertex Tech 862,2018,Japan,Robotics,Series B,4.66,32.68,125,12
+AI0546,Core AI 546,2025,India,EdTech AI,Series B,57.84,359.38,375,16
+AI0514,Synth Robotics 514,2023,Netherlands,AI Infrastructure,Series A,13.04,98.42,94,6
+AI0775,Core Labs 775,2019,Switzerland,Cybersecurity AI,Pre-Seed,0.5,3.63,11,11
+AI0183,Nova Labs 183,2023,Germany,Autonomous Vehicles,Series A,8.01,63.35,43,2
+AI0997,Logic Tech 997,2018,China,Cybersecurity AI,Seed,0.6,2.72,3,8
+AI0281,Mind Labs 281,2021,China,Healthcare AI,,6.52,37.73,73,1
+AI0111,Logic AI 111,2025,Japan,Agriculture AI,Late Stage,332.35,1642.17,5751,16
+AI0371,Vision Analytics 371,2021,Singapore,,Seed,0.61,5.5,4,4
+AI0240,Quantum Robotics 240,2025,USA,Retail AI,Series A,26.13,294.44,98,17
+AI0733,Logic AI 733,2018,Australia,NLP,Series D,90.56,921.53,1270,6
+AI1164,Quantum Analytics 1164,2023,Singapore,Retail AI,Series A,5.4,29.03,43,6
+AI0615,Deep Analytics 615,2023,Australia,Computer Vision,Series B,13.24,67.46,107,7
+AI0205,Orbit Intelligence 205,2021,Japan,AI Infrastructure,,62.66,441.67,708,6
+AI0856,Orbit AI 856,2022,Germany,FinTech AI,Seed,0.54,5.06,14,1
+AI0262,NexGen Robotics 262,2023,India,Retail AI,Series D,146.12,1237.58,582,2
+AI1051,Alpha Robotics 1051,2019,Germany,Retail AI,Series B,34.13,298.33,658,8
+AI0672,Astra Robotics 672,2023,Canada,Marketing AI,Series A,8.26,91.67,37,6
+AI0340,Orbit Analytics 340,2021,Canada,FinTech AI,Series C,33.01,121.51,513,8
+AI0740,Synth Tech 740,2021,Switzerland,Retail AI,Late Stage,189.9,1977.78,3294,6
+AI0833,Orbit Systems 833,2020,Singapore,EdTech AI,Series D,40.1,411.85,639,13
+AI0494,Alpha Tech 494,2023,USA,Legal AI,Seed,2.48,20.77,22,16
+AI0184,Data AI 184,2020,India,NLP,Series A,1.68,17.81,19,10
+AI0138,Intelli Systems 138,2018,USA,Marketing AI,Seed,0.6,6.56,21,14
+AI1180,Future Analytics 1180,2020,USA,Autonomous Vehicles,Series B,18.27,69.9,656,2
+AI0731,Core Tech 731,2020,Netherlands,Legal AI,Series A,4.28,33.0,41,8
+AI0655,Orbit Analytics 655,2023,Australia,EdTech AI,Series B,12.28,76.76,140,5
+AI0081,Logic Labs 81,2024,Canada,Climate AI,Pre-Seed,0.18,1.94,25,16
+AI0520,Nova Systems 520,2019,Israel,EdTech AI,Series B,19.7,107.77,92,17
+AI0819,Future AI 819,2021,Switzerland,Healthcare AI,Series A,2.68,8.4,4,15
+AI0814,Alpha Systems 814,2021,Canada,Retail AI,Series D,114.0,659.76,524,9
+AI0030,Cognify Labs 30,2021,UK,NLP,Series A,5.55,18.3,73,7
+AI0472,Synth Robotics 472,2025,Canada,Healthcare AI,Seed,3.87,43.1,26,12
+AI0166,Orbit AI 166,2018,France,Healthcare AI,Series A,2.25,12.92,13,5
+AI0249,Mind Labs 249,2018,USA,Computer Vision,Series A,6.14,21.2,90,2
+AI0308,Logic Intelligence 308,2019,USA,Robotics,Series B,24.81,118.86,508,10
+AI0789,Vision Labs 789,2025,UAE,Climate AI,Series A,5.2,44.61,21,11
+AI0483,Alpha Analytics 483,2022,Israel,Autonomous Vehicles,Pre-Seed,0.15,1.24,13,13
+AI0347,Mind Intelligence 347,2020,Canada,Marketing AI,Series A,5.64,44.45,59,10
+AI0335,Intelli AI 335,2023,UK,Climate AI,Seed,5.78,18.48,113,15
+AI0286,Neural Tech 286,2020,China,Generative AI,Series A,8.68,45.65,47,4
+AI0985,Data Tech 985,2025,Canada,Computer Vision,Seed,0.59,4.87,4,12
+AI0098,Astra Systems 98,2021,China,Cybersecurity AI,Seed,1.68,8.24,15,13
+AI0971,Mind Intelligence 971,2025,Canada,Agriculture AI,Pre-Seed,0.18,1.56,25,7
+AI1056,Vision AI 1056,2022,South Korea,Healthcare AI,Series A,9.6,109.1,63,8
+AI0946,Quantum Robotics 946,2024,Japan,Marketing AI,Late Stage,251.02,1225.96,1403,2
+AI0623,NexGen Analytics 623,2024,Netherlands,Cybersecurity AI,Seed,0.55,5.58,3,11
+AI0705,Future Robotics 705,2022,South Korea,Healthcare AI,Pre-Seed,0.15,0.99,9,4
+AI0635,Orbit Labs 635,2019,Israel,AI Infrastructure,Series C,30.03,139.83,308,3
+AI0830,Neural Intelligence 830,2025,Brazil,Computer Vision,Seed,5.23,51.97,21,1
+AI0839,Alpha Robotics 839,2021,Israel,Cybersecurity AI,Series B,45.61,521.8,512,15
+AI0713,Mind Labs 713,2018,India,Agriculture AI,Series D,89.51,1026.52,594,2
+AI0066,Neural Tech 66,2019,Netherlands,Cybersecurity AI,Seed,3.7,30.44,54,2
+AI0658,Vision Systems 658,2020,South Korea,Legal AI,Series D,34.77,334.63,179,8
+AI0769,Astra Robotics 769,2021,USA,Legal AI,Seed,0.77,7.08,16,7
+AI0589,Intelli AI 589,2021,China,Climate AI,Series D,227.51,2696.81,1456,8
+AI1103,Nova Systems 1103,2021,UAE,Generative AI,Seed,0.72,3.31,8,2
+AI1118,Alpha Intelligence 1118,2022,Singapore,Autonomous Vehicles,Series A,1.57,18.14,33,16
+AI0303,Nova AI 303,2020,Canada,Computer Vision,Series A,3.56,14.46,8,16
+AI0255,Core Intelligence 255,2018,UK,Computer Vision,Series A,5.46,20.46,39,11
+AI0994,NexGen Systems 994,2021,Australia,AI Infrastructure,Seed,1.5,16.08,38,14
+AI0966,Deep Analytics 966,2018,UAE,FinTech AI,Seed,0.21,0.86,16,6
+AI0313,Nova Robotics 313,2021,Japan,AI Infrastructure,Seed,1.94,22.32,18,10
+AI0549,Nova Analytics 549,2019,Singapore,Legal AI,Series B,13.12,90.0,408,8
+AI0222,Future Tech 222,2020,Israel,Cybersecurity AI,Series B,15.38,62.82,186,2
+AI0478,Alpha Intelligence 478,2025,Canada,Climate AI,Series D,134.84,463.63,1128,15
+AI0389,Nova Analytics 389,2018,Israel,Legal AI,Series B,7.07,45.35,39,8
+AI0236,Alpha Intelligence 236,2021,Japan,Healthcare AI,Seed,1.59,9.05,22,5
+AI0840,Logic Robotics 840,2022,Japan,Climate AI,Series A,5.5,44.68,91,11
+AI0718,Orbit Robotics 718,2021,Brazil,Retail AI,Series A,13.51,86.99,102,5
+AI0737,Deep Analytics 737,2021,UK,Healthcare AI,Late Stage,74.4,592.61,584,2
+AI0306,Core Systems 306,2022,France,Legal AI,Seed,2.25,13.53,6,14
+AI1162,Vision Labs 1162,2022,Japan,Generative AI,Seed,1.44,11.26,6,8
+AI0850,Orbit Systems 850,2023,USA,Climate AI,Series B,18.7,176.22,129,4
+AI0797,Neural Analytics 797,2022,Germany,Healthcare AI,Series A,9.36,95.99,73,10
+AI0950,Mind Systems 950,2022,Netherlands,Legal AI,Late Stage,216.32,810.62,1813,1
+AI1158,Data Analytics 1158,2018,UAE,AI Infrastructure,Series A,3.06,21.79,63,16
+AI0250,Alpha Intelligence 250,2020,South Korea,Marketing AI,,19.89,86.93,97,7
+AI0886,Neural Labs 886,2022,Australia,AI Infrastructure,Seed,0.52,4.3,14,1
+AI0616,Alpha Labs 616,2020,Israel,Cybersecurity AI,Seed,0.6,4.19,11,12
+AI0072,Intelli Labs 72,2019,France,Retail AI,Series B,15.25,159.95,94,12
+AI0095,NexGen Tech 95,2023,South Korea,FinTech AI,Seed,0.97,3.19,11,1
+AI0576,Synth Analytics 576,2023,Germany,Cybersecurity AI,Series A,6.01,68.57,53,13
+AI0034,Alpha Analytics 34,2019,,Legal AI,Series A,9.86,68.72,14,6
+AI0794,NexGen Analytics 794,2021,France,Marketing AI,Seed,0.46,3.33,5,6
+AI0449,Orbit Intelligence 449,2024,USA,Retail AI,Pre-Seed,0.59,2.57,3,8
+AI0446,Alpha Systems 446,2020,UK,Robotics,Series A,6.91,25.83,32,5
+AI0853,Intelli Analytics 853,2022,UAE,EdTech AI,Seed,0.4,4.3,12,13
+AI0728,Alpha Intelligence 728,2020,Brazil,Autonomous Vehicles,Pre-Seed,0.47,5.21,24,7
+AI0984,Nova Analytics 984,2022,UAE,Robotics,Series A,6.98,45.35,153,10
+AI0078,Orbit Labs 78,2021,Germany,Climate AI,Series A,2.25,22.82,16,11
+AI0085,Core Analytics 85,2024,Switzerland,Healthcare AI,Series A,33.67,189.38,195,13
+AI0559,NexGen Labs 559,2025,Australia,Computer Vision,Seed,0.54,5.52,10,8
+AI0083,Neural Analytics 83,2022,France,Agriculture AI,Series D,203.01,1061.32,4308,9
+AI0458,Orbit Systems 458,2025,USA,Cybersecurity AI,Series B,56.91,357.62,661,11
+AI0762,Cognify Tech 762,2019,Australia,Agriculture AI,Series B,27.83,221.08,188,13
+AI0437,Nova Tech 437,2025,France,NLP,Series C,72.73,383.79,363,4
+AI0610,Alpha Tech 610,2025,Singapore,Autonomous Vehicles,Series D,81.68,571.69,1268,5
+AI0923,Orbit Analytics 923,2018,Brazil,Healthcare AI,Series A,3.09,10.76,26,11
+AI0405,Deep Intelligence 405,2025,France,EdTech AI,Seed,1.37,6.8,8,5
+AI1064,Core Analytics 1064,2022,Australia,Robotics,Pre-Seed,0.52,4.14,13,16
+AI0629,Mind AI 629,2024,Canada,Autonomous Vehicles,Series D,87.06,621.07,1306,2
+AI0671,Mind Robotics 671,2018,South Korea,Marketing AI,Seed,0.7,2.76,15,2
+AI0105,Vertex Systems 105,2019,USA,Autonomous Vehicles,Series C,35.44,383.3,659,12
+AI1135,Nova Tech 1135,2020,UK,Retail AI,Seed,0.33,2.53,17,15
+AI0627,Future Systems 627,2022,India,Robotics,Late Stage,181.88,2151.51,1236,5
+AI0063,Orbit Tech 63,2022,Netherlands,Legal AI,Late Stage,112.66,745.16,933,13
+AI0282,Data Intelligence 282,2021,Japan,Generative AI,Late Stage,172.95,1457.54,1814,5
+AI0875,Mind Analytics 875,2019,China,Climate AI,Late Stage,91.85,554.71,2037,10
+AI0239,NexGen Robotics 239,2020,South Korea,EdTech AI,Late Stage,97.18,373.46,1189,6
+AI0224,Logic Labs 224,2021,France,Autonomous Vehicles,Series C,31.24,323.39,95,6
+AI0146,Deep Labs 146,2024,France,Marketing AI,Series D,38.87,245.24,268,14
+AI1138,Core Robotics 1138,2019,Canada,EdTech AI,Seed,1.01,4.36,3,13
+AI0374,Synth Systems 374,2025,China,Legal AI,Pre-Seed,0.15,1.56,7,10
+AI0119,Data Analytics 119,2025,China,,Series A,7.34,47.14,75,4
+AI0831,Astra Intelligence 831,2022,Canada,Legal AI,Series A,,11.74,8,2
+AI0251,Deep AI 251,2023,Israel,Generative AI,Seed,3.54,16.58,20,10
+AI1176,Mind Intelligence 1176,2024,South Korea,Climate AI,Pre-Seed,0.6,5.72,17,16
+AI0010,NexGen Intelligence 10,2019,Canada,FinTech AI,Pre-Seed,0.27,3.03,18,15
+AI0450,Alpha Tech 450,2023,Canada,Robotics,Series D,224.65,1450.4,2082,2
+AI0906,Astra Labs 906,2019,Germany,Generative AI,Seed,0.49,3.33,12,1
+AI0390,Intelli Robotics 390,2018,Japan,FinTech AI,Series A,1.89,15.1,22,8
+AI1184,Data Labs 1184,2021,Netherlands,EdTech AI,,54.11,579.86,687,6
+AI0934,Quantum Analytics 934,2018,Germany,Computer Vision,Late Stage,145.91,745.03,1290,3
+AI0461,Data AI 461,2019,Switzerland,NLP,Seed,1.36,13.77,3,11
+AI1133,NexGen Robotics 1133,2023,Israel,Marketing AI,Pre-Seed,0.18,1.1,12,12
+AI0145,Quantum Systems 145,2025,Singapore,NLP,Series C,17.43,150.16,252,6
+AI0502,Deep Systems 502,2022,China,EdTech AI,Series A,3.2,28.17,8,5
+AI0110,Astra AI 110,2024,China,NLP,Late Stage,158.78,1359.26,4671,8
+AI0540,Core Analytics 540,2019,India ,AI Infrastructure,Series A,6.39,38.89,34,17
+AI0178,Synth Labs 178,2020,India,Legal AI,Seed,1.01,5.29,8,16
+AI1178,Synth Analytics 1178,2025,Israel,EdTech AI,Seed,2.82,17.88,75,17
+AI0723,Synth Tech 723,2021,Germany,Climate AI,Series B,12.25,44.81,217,11
+AI0722,Data Robotics 722,2020,Germany,Cybersecurity AI,Series A,6.76,30.53,31,4
+AI0595,Alpha Labs 595,2021,Singapore,Autonomous Vehicles,Late Stage,108.17,880.25,1144,9
+AI0008,Core Systems 8,2022,Australia,FinTech AI,Seed,2.48,20.16,8,13
+AI0736,Vertex Intelligence 736,2020,Australia,AI Infrastructure,Seed,0.26,0.83,11,14
+AI0873,Nova Analytics 873,2019,South Korea,Generative AI,Late Stage,107.32,1260.31,161,5
+AI0358,Data Labs 358,2025,Canada,FinTech AI,Series B,23.81,195.94,375,11
+AI0330,Synth Intelligence 330,2025,Switzerland,FinTech AI,Series A,3.3,29.87,33,13
+AI0729,Cognify Tech 729,2022,Netherlands,Legal AI,Seed,0.84,7.44,21,1
+AI0860,Future Labs 860,2024,UAE,Retail AI,Pre-Seed,1.36,4.38,5,14
+AI0259,Logic AI 259,2025,Israel,Legal AI,Seed,2.01,6.92,35,5
+AI0900,Nova Analytics 900,2020,Switzerland,Autonomous Vehicles,Series B,8.99,29.48,65,15
+AI0924,Core Systems 924,2024,UAE,FinTech AI,Series A,4.21,48.44,86,5
+AI1192,Vision Intelligence 1192,2020,South Korea,Computer Vision,Pre-Seed,0.15,1.72,13,12
+AI0622,Intelli Intelligence 622,2019,Japan,Autonomous Vehicles,Series A,4.4,46.24,51,16
+AI0859,Neural Robotics 859,2019,Netherlands,Robotics,Series A,3.65,16.68,16,2
+AI0526,Cognify Robotics 526,2024,Israel,,Series C,54.98,305.27,587,12
+AI0843,Logic Labs 843,2018,Singapore,Generative AI,Seed,1.78,20.22,12,11
+AI0979,Vision Intelligence 979,2025,Switzerland,Marketing AI,Seed,0.69,5.6,8,4
+AI1175,Vision Labs 1175,2018,UAE,Cybersecurity AI,Late Stage,152.05,962.39,662,7
+AI1160,Quantum Robotics 1160,2021,Canada,Agriculture AI,Seed,1.63,7.05,14,12
+AI0441,NexGen Labs 441,2018,Israel,EdTech AI,Series D,42.68,133.29,91,2
+AI0532,Alpha AI 532,2025,China,NLP,Seed,1.05,4.85,9,5
+AI0995,Nova Labs 995,2021,UAE,NLP,Seed,0.7,8.07,32,15
+AI0229,Cognify Analytics 229,2018,UK,Computer Vision,Series C,74.94,295.82,2251,17
+AI1091,Vertex Labs 1091,2021,USA,AI Infrastructure,Pre-Seed,0.24,1.45,9,3
+AI0213,Cognify Robotics 213,2022,UK,AI Infrastructure,Series A,3.36,14.31,26,10
+AI0080,Vertex Tech 80,2021,India,Robotics,Series C,10.54,62.03,58,6
+AI0149,Future Analytics 149,2018,Brazil,Climate AI,Series A,4.32,30.65,18,4
+AI0738,Future Intelligence 738,2022,USA,EdTech AI,Pre-Seed,1.56,5.54,12,3
+AI0732,Cognify Robotics 732,2018,Netherlands,Autonomous Vehicles,Late Stage,87.73,939.56,532,17
+AI0611,Vision Robotics 611,2022,UAE,FinTech AI,Seed,0.57,5.57,9,13
+AI0134,Synth AI 134,2022,Singapore,Agriculture AI,Series C,17.21,205.33,112,8
+AI0808,Logic Systems 808,2018,Switzerland,EdTech AI,Series A,7.57,42.61,78,2
+AI0409,Core Intelligence 409,2021,Singapore,Autonomous Vehicles,Late Stage,149.3,491.77,4262,5
+AI0696,Future Robotics 696,2021,Japan,NLP,Series C,8.5,33.77,48,11
+AI0508,Vision Tech 508,2020,Brazil,Robotics,Seed,1.56,14.21,22,4
+AI0909,Logic Intelligence 909,2024,India,Legal AI,Series B,12.02,72.23,45,10
+AI0505,Future Systems 505,2024,Canada,Robotics,Series D,157.19,1684.32,950,2
+AI0851,Core Labs 851,2024,Switzerland,Autonomous Vehicles,Series A,4.13,12.59,58,16
+AI0348,Synth Labs 348,2021,Netherlands,Climate AI,Series B,36.53,170.54,93,13
+AI0387,Core Tech 387,2020,UAE,Robotics,Series D,77.92,269.01,8000,1
+AI0001,Vertex Labs 1,2024,Australia,Agriculture AI,Seed,0.53,3.34,8,14
+AI0361,Data Analytics 361,2021,Japan,Healthcare AI,Series B,21.56,97.16,155,5
+AI1153,Neural Tech 1153,2021,Germany,Computer Vision,Series B,36.6,366.97,321,11
+AI0476,Deep Labs 476,2025,China,Marketing AI,Series A,5.25,25.29,32,15
+AI0803,Alpha Analytics 803,2018,South Korea,EdTech AI,Series C,7.79,80.35,61,1
+AI0779,Cognify Intelligence 779,2025,UAE,,Series A,7.42,62.46,38,5
+AI0173,Nova AI 173,2020,Germany,Cybersecurity AI,Series A,5.7,67.96,24,11
+AI0451,Alpha Analytics 451,2023,,Agriculture AI,Seed,1.12,4.35,6,11
+AI0126,Intelli AI 126,2025,UK,NLP,Seed,1.87,13.58,11,17
+AI0662,Vertex AI 662,2020,France,EdTech AI,Seed,1.03,7.23,17,11
+AI0531,Synth Robotics 531,2018,Brazil,Cybersecurity AI,Series A,2.39,15.81,23,6
+AI0091,Vision Labs 91,2025,Switzerland,Agriculture AI,Series C,37.99,339.95,1459,16
+AI1181,Logic AI 1181,2023,Brazil,AI Infrastructure,Series D,61.91,449.16,400,13
+AI0182,Neural Intelligence 182,2024,France,EdTech AI,Series A,9.14,77.48,71,9
+AI1182,Mind Intelligence 1182,2025,Switzerland,Climate AI,Late Stage,71.24,376.26,1069,4
+AI0415,NexGen Intelligence 415,2020,UK,Climate AI,Series D,136.47,904.66,2764,10
+AI0252,Intelli Systems 252,2018,India,Computer Vision,Pre-Seed,0.15,1.41,16,15
+AI0070,Vision Labs 70,2023,Japan,Computer Vision,Series D,104.68,1131.93,2580,1
+AI0132,Neural Robotics 132,2022,UK,Cybersecurity AI,Late Stage,188.53,1805.31,5345,8
+AI0301,Core Systems 301,2018,Netherlands,Marketing AI,Late Stage,20.29,90.63,154,4
+AI0842,Orbit Labs 842,2025,UAE,AI Infrastructure,Late Stage,463.12,4829.97,6338,7
+AI0327,Logic Systems 327,2020,Canada,FinTech AI,Series C,94.39,499.7,207,13
+AI1194,Core Systems 1194,2025,Canada,Generative AI,Seed,0.93,3.78,43,3
+AI0500,Deep Labs 500,2021,Singapore,Cybersecurity AI,Late Stage,263.96,990.78,2886,14
+AI0963,Mind Tech 963,2023,Japan,Cybersecurity AI,Series A,6.05,54.31,71,14
+AI1071,Intelli Intelligence 1071,2022,UK,Retail AI,Series C,49.1,461.51,352,14
+AI0496,Cognify Analytics 496,2024,India,EdTech AI,Series B,21.21,104.48,73,9
+AI0339,NexGen AI 339,2021,Israel,Climate AI,Series D,55.92,311.47,374,7
+AI0999,NexGen Robotics 999,2025,South Korea,EdTech AI,Pre-Seed,0.43,4.92,10,1
+AI0165,Mind Analytics 165,2019,Germany,AI Infrastructure,Series A,4.65,48.77,43,14
+AI0029,NexGen Labs 29,2025,Israel,Robotics,Pre-Seed,0.21,1.64,3,11
+AI0517,Astra Robotics 517,2025,USA,Cybersecurity AI,Late Stage,271.28,1656.22,2004,9
+AI0194,Alpha Labs 194,2024,South Korea,Robotics,Series D,43.63,135.84,295,3
+AI0784,Alpha AI 784,2021,Brazil,Autonomous Vehicles,Seed,0.79,3.06,8,14
+AI1117,Core Labs 1117,2024,Netherlands,NLP,Series D,212.43,907.94,2596,6
+AI0170,Future Tech 170,2023,South Korea,Marketing AI,Series C,27.76,97.91,221,13
+AI0722,Data Robotics 722,2020,Germany,Cybersecurity AI,Series A,6.76,30.53,31,4
+AI0174,Deep AI 174,2021,Brazil,EdTech AI,Seed,1.26,5.66,10,11
+AI0519,Orbit AI 519,2025,China,Healthcare AI,Series D,49.49,376.69,351,11
+AI0953,Deep AI 953,2022,Canada,Agriculture AI,Seed,0.3,2.63,11,11
+AI1114,Mind Tech 1114,2024,Australia,Climate AI,Seed,1.47,13.96,7,7
+AI0492,Astra AI 492,2022,UK,EdTech AI,Series A,4.39,16.76,43,11
+AI0074,Neural Robotics 74,2019,Switzerland,FinTech AI,Pre-Seed,0.52,3.39,8,15
+AI1028,Mind AI 1028,2020,USA,Robotics,Series B,23.91,274.52,352,12
+AI0588,Quantum Systems 588,2020,Germany,Robotics,Late Stage,84.51,877.59,437,10
+AI0235,Core Analytics 235,2021,UAE,Legal AI,Seed,1.04,6.37,13,3
+AI0215,Alpha Analytics 215,2020,USA,Cybersecurity AI,Pre-Seed,0.2,2.01,6,17
+AI1195,Deep Systems 1195,2019,Germany,Gen AI,Series D,70.2,504.87,868,4
+AI0133,Synth Labs 133,2018,France,Robotics,Seed,0.42,3.29,15,16
+AI0802,NexGen Analytics 802,2023,India,EdTech AI,Series B,9.07,31.58,74,17
+AI0757,Alpha Tech 757,2019,Brazil,AI Infrastructure,Seed,-1.44,10.61,31,3
+AI0975,Synth Labs 975,2021,Netherlands,FinTech AI,Series B,9.61,90.08,130,15
+AI0186,Vision Robotics 186,2022,USA ,Agriculture AI,Series A,3.29,14.73,15,4
+AI0042,Intelli Robotics 42,2024,Japan,Computer Vision,Series D,75.97,243.28,1457,14
+AI0109,Mind Labs 109,2023,South Korea,EdTech AI,Series B,13.5,145.98,374,15
+AI0880,Future Labs 880,2022,Germany,Computer Vision,Series C,11.84,107.48,108,13
+AI0569,Neural Labs 569,2024,Japan,Computer Vision,Seed,1.71,16.55,15,13
+AI1006,Vision Intelligence 1006,2022,India,Robotics,Series C,46.52,187.94,477,16
+AI1033,Deep Intelligence 1033,2018,France,Legal AI,Series C,-16.17,134.42,75,1
+AI1174,Astra Systems 1174,2024,China,Climate AI,Pre-Seed,1.02,8.15,5,17
+AI0484,Future Intelligence 484,2023,South Korea,Marketing AI,Pre-Seed,0.23,2.27,4,3
+AI0469,Astra Systems 469,2022,Switzerland,Agriculture AI,Series A,2.67,24.31,14,13
+AI0025,Data Robotics 25,2021,Singapore,EdTech AI,Series A,2.8,32.3,4,12
+AI0683,NexGen Labs 683,2024,UK,Computer Vision,Seed,1.6,6.63,24,16
+AI1161,NexGen Intelligence 1161,2025,Japan,Healthcare AI,Seed,3.14,37.3,38,3
+AI0778,Vertex AI 778,2025,India,EdTech AI,Series A,3.07,35.82,30,9
+AI1031,Neural Intelligence 1031,2024,Switzerland,Legal AI,Seed,3.27,23.99,39,15
+AI0367,Orbit Robotics 367,2023,China,Retail AI,Series A,14.85,162.75,85,9
+AI0870,Deep AI 870,2023,Netherlands,Generative AI,Seed,4.06,43.42,51,10
+AI1120,Vertex Systems 1120,2023,India,Agriculture AI,Seed,0.32,3.01,5,16
+AI0384,Vision Labs 384,2022,Netherlands,Retail AI,Late Stage,189.3,1906.64,1704,13
+AI0455,Alpha Tech 455,2022,Netherlands,Climate AI,Pre-Seed,0.22,1.9,3,11
+AI0265,Alpha Analytics 265,2020,Singapore,Cybersecurity AI,Series C,31.4,103.09,265,3
+AI0786,Vision Analytics 786,2018,Japan,Climate AI,Seed,1.58,12.01,18,1
+AI1016,Logic Robotics 1016,2023,Netherlands,Autonomous Vehicles,Late Stage,163.12,1734.95,547,2
+AI0445,Quantum Analytics 445,2021,India,Robotics,Series A,7.4,74.97,71,1
+AI0396,Future Systems 396,2021,South Korea,Cybersecurity AI,Seed,1.68,9.16,7,14
+AI1121,Alpha Intelligence 1121,2019,Israel,Agriculture AI,Series A,4.77,26.48,43,16
+AI0177,Quantum Robotics 177,2020,Germany,EdTech AI,Pre-Seed,0.2,2.27,5,4
+AI0019,Vision Intelligence 19,2025,Switzerland,Computer Vision,Series D,149.72,1040.34,5032,1
+AI1063,Neural AI 1063,2024,Canada,,Series B,76.92,297.64,1152,13
+AI0844,Intelli Tech 844,2024,USA,Legal AI,Pre-Seed,0.15,0.71,7,6
+AI0596,Core Analytics 596,2021,Canada,Healthcare AI,Late Stage,123.6,386.6,1421,15
+AI0062,Logic AI 62,2024,USA,Marketing AI,Series A,4.43,36.74,59,7
+AI0273,Deep Labs 273,2025,Australia,AI Infrastructure,Series C,22.56,267.03,98,8
+AI1145,Neural Analytics 1145,2021,India,FinTech AI,Pre-Seed,0.24,1.73,9,17
+AI0279,Mind Systems 279,2018,South Korea,FinTech AI,Late Stage,33.97,235.53,367,6
+AI1025,Core Labs 1025,2025,China,FinTech AI,Series A,34.95,396.75,146,10
+AI0695,Data Analytics 695,2019,UAE,Autonomous Vehicles,Series D,37.81,324.59,159,4
+AI0369,Deep Analytics 369,2020,South Korea,NLP,Series C,24.49,89.14,120,12
+AI0919,Future Intelligence 919,2021,Germany,Climate AI,Seed,0.44,4.59,16,11
+AI0849,Intelli Labs 849,2024,USA,FinTech AI,Series B,24.13,246.48,182,17
+AI0891,Quantum Analytics 891,2024,Singapore,Generative AI,Seed,1.26,10.82,8,10
+AI1005,Quantum Analytics 1005,2018,UK,Robotics,Series D,174.05,1781.96,2434,11
+AI0799,Core Systems 799,2018,Switzerland,Generative AI,Series C,5.15,60.8,29,11
+AI0548,Neural Systems 548,2021,Netherlands,Robotics,Series A,11.1,63.25,119,12
+AI0912,Intelli Tech 912,2022,Germany,Retail AI,,0.53,2.86,14,5
+AI0689,Quantum AI 689,2024,India,AI Infrastructure,Series A,4.18,39.18,51,6
+AI0933,Logic Robotics 933,2018,India,FinTech AI,Series A,7.5,32.65,82,7
+AI0457,Mind Intelligence 457,2023,South Korea,FinTech AI,Series A,8.64,66.62,61,6
+AI0394,Quantum Labs 394,2025,Germany,Climate AI,Series B,5.31,36.72,61,3
+AI0676,Vertex Tech 676,2022,South Korea,Agriculture AI,Pre-Seed,0.48,4.32,10,5
+AI0945,Alpha Systems 945,2022,Canada,Generative AI,Seed,0.93,7.39,3,4
+AI1000,Astra Systems 1000,2020,France,Computer Vision,Seed,3.19,36.23,50,6
+AI0376,Logic Intelligence 376,2021,China,Marketing AI,Series C,16.21,120.01,93,16
+AI0413,Quantum Analytics 413,2023,Australia,Cybersecurity AI,Series A,3.75,20.98,18,8
+AI0075,Vertex Analytics 75,2022,Germany,Cybersecurity AI,Seed,1.38,12.9,7,1
+AI1141,NexGen Analytics 1141,2023,UK,Marketing AI,Pre-Seed,0.27,2.91,7,13
+AI0894,Quantum Analytics 894,2022,UAE,Climate AI,Series A,3.97,34.12,34,5
+AI0501,Vertex Intelligence 501,2024,Israel,Marketing AI,Seed,1.04,4.83,9,13
+AI0938,Quantum Intelligence 938,2022,UK,AI Infrastructure,Seed,1.86,7.2,31,16
+AI0617,Deep Intelligence 617,2018,Netherlands,Generative AI,Series D,37.84,377.77,372,2
+AI0115,Nova Systems 115,2024,China,EdTech AI,Series A,11.92,99.75,23,17
+AI0418,Vision Labs 418,2019,France,AI Infrastructure,Series D,69.76,560.47,474,10
+AI0602,Deep Systems 602,2025,South Korea,Healthcare AI,Series A,12.91,67.08,85,3
+AI0605,Intelli Analytics 605,2024,UK,Agriculture AI,Pre-Seed,0.43,4.29,28,15
+AI0090,Neural Tech 90,2019,Israel,Cybersecurity AI,Late Stage,99.79,936.22,524,8
+AI1168,Logic Analytics 1168,2023,,EdTech AI,Series B,19.88,201.28,63,12
+AI0499,Orbit AI 499,2018,France,Legal AI,Pre-Seed,0.19,1.15,4,9
+AI0908,Vision Analytics 908,2020,Japan,NLP,Series B,25.7,142.46,544,13
+AI0915,Astra AI 915,2021,Netherlands,NLP,Pre-Seed,0.41,3.19,10,7
+AI0913,NexGen Labs 913,2022,UAE,Climate AI,Seed,1.23,13.13,6,12
+AI0012,Alpha Systems 12,2024,India,Autonomous Vehicles,Late Stage,89.68,863.32,1086,12
+AI0397,Alpha AI 397,2025,UK,Marketing AI,Seed,1.6,8.75,20,3
+AI1123,Core AI 1123,2020,Canada,Legal AI,Series B,20.1,117.63,115,5
+AI0556,Intelli Systems 556,2025,South Korea,Cybersecurity AI,Pre-Seed,0.95,3.72,10,3
+AI0043,NexGen Labs 43,2019,Israel,Climate AI,Seed,0.89,10.6,8,13
+AI0168,Deep Analytics 168,2024,India,EdTech AI,Seed,1.03,6.82,4,7
+AI0417,Cognify Labs 417,2022,Switzerland,Climate AI,Seed,1.0,6.92,27,15
+AI0577,Deep Labs 577,2022,Brazil,Climate AI,Series C,31.56,273.23,141,7
+AI0268,Logic Robotics 268,2025,UK,,Seed,0.4,2.4,6,7
+AI1061,Synth Systems 1061,2018,India,Agriculture AI,Series B,4.88,47.98,24,16
+AI0427,Astra Labs 427,2018,Japan,Retail AI,Series B,16.32,104.03,109,14
+AI0691,Alpha Labs 691,2019,Switzerland,AI Infrastructure,Series B,16.17,110.93,96,10
+AI0545,Neural Tech 545,2018,China,Generative AI,Series C,9.49,75.02,150,1
+AI1142,Data Tech 1142,2018,UK,Generative AI,Series D,72.46,688.4,647,7
+AI0675,NexGen Analytics 675,2021,France,Retail AI,Pre-Seed,0.33,2.66,4,14
+AI0690,Neural Systems 690,2019,China,Cybersecurity AI,Seed,0.32,3.14,12,15
+AI1074,Astra Systems 1074,2020,UAE,NLP,Series B,8.1,58.58,31,3
+AI1196,Astra Labs 1196,2022,Switzerland,Climate AI,Series C,9.71,51.71,93,8
+AI1019,Quantum Analytics 1019,2025,Israel,AI Infrastructure,Series A,9.1,75.49,63,12
+AI0972,Orbit Tech 972,2024,Netherlands,NLP,Series A,20.28,153.87,178,17
+AI0258,Logic Intelligence 258,2023,France,Autonomous Vehicles,Series D,64.82,270.07,302,4
+AI0336,Alpha AI 336,2025,Brazil,Autonomous Vehicles,Late Stage,204.0,1552.52,1584,13
+AI0016,Core Analytics 16,2022,South Korea,Legal AI,Late Stage,152.74,1748.12,825,12
+AI0935,Data Intelligence 935,2025,USA,Climate AI,Series D,160.05,1501.67,2299,5
+AI0325,Deep Analytics 325,2023,India,Retail AI,Pre-Seed,0.26,2.45,5,6
+AI0608,Neural Robotics 608,2025,Australia,Cybersecurity AI,Seed,1.32,6.6,6,13
+AI1073,Astra Robotics 1073,2019,South Korea,Climate AI,Pre-Seed,0.18,1.35,27,7
+AI0817,Mind Analytics 817,2018,Germany,Marketing AI,Seed,0.89,2.82,54,3
+AI0223,Cognify Tech 223,2023,Singapore,Legal AI,Series C,58.06,408.72,1598,13
+AI0180,Future Labs 180,2020,Israel,,Seed,1.6,6.06,7,15
+AI0100,Orbit Robotics 100,2022,China,Healthcare AI,Series A,4.66,18.08,23,15
+AI0758,Mind Intelligence 758,2020,,Legal AI,Seed,0.88,6.88,16,11
+AI0522,Quantum Tech 522,2024,Singapore,NLP,Seed,0.45,4.49,13,4
+AI0023,Nova Robotics 23,2019,Netherlands,Cybersecurity AI,,1.85,8.03,11,15
+AI0357,Mind Analytics 357,2019,India,FinTech AI,Pre-Seed,0.36,3.55,23,15
+AI0734,Synth Tech 734,2025,Canada,Robotics,Seed,0.76,7.25,11,16
+AI1156,Data Systems 1156,2018,Netherlands,Legal AI,Series A,7.63,32.4,109,8
+AI0400,Nova Systems 400,2018,Netherlands,Cybersecurity AI,Series A,6.64,45.87,18,5
+AI0612,Cognify AI 612,2019,Singapore,Robotics,Seed,0.51,2.33,15,15
+AI1038,Vision Robotics 1038,2024,China,Agriculture AI,Late Stage,286.84,1931.47,3136,5
+AI0341,Future Tech 341,2020,Brazil,Healthcare AI,Pre-Seed,0.15,1.45,9,15
+AI0432,Astra Robotics 432,2023,France,Healthcare AI,Series C,14.9,152.32,217,11
+AI0809,Nova AI 809,2023,Israel,Legal AI,Series C,31.37,226.99,80,16
+AI0218,Vision Analytics 218,2022,Netherlands,Autonomous Vehicles,Series B,27.3,316.55,153,5
+AI0204,Mind AI 204,2018,Switzerland,FinTech AI,Series D,90.52,286.23,1080,7
+AI0939,Alpha Labs 939,2023,UAE,Computer Vision,Pre-Seed,0.36,3.13,21,3
+AI1171,Intelli Analytics 1171,2025,South Korea,Marketing AI,Series C,143.96,1518.23,1311,15
+AI0094,Quantum Analytics 94,2023,Netherlands,Computer Vision,Series C,46.51,371.98,1497,5
+AI0826,Neural Labs 826,2021,UAE,Retail AI,Seed,0.65,3.84,19,7
+AI0069,Vertex Labs 69,2021,India,Healthcare AI,Late Stage,123.42,1377.23,1929,3
+AI0928,Cognify Tech 928,2021,UAE,FinTech AI,Pre-Seed,0.18,0.74,12,6
+AI0285,Alpha Labs 285,2019,Israel,Robotics,Seed,7.76,56.92,23,3
+AI0697,Vertex Labs 697,2024,Switzerland,NLP,Series A,30.85,355.3,211,12
+AI0086,Nova Systems 86,2020,Israel,Cybersecurity AI,Pre-Seed,0.15,0.78,9,14
+AI0435,Astra Analytics 435,2021,Israel,EdTech AI,Seed,1.48,12.15,24,2
+AI0869,Orbit AI 869,2024,Japan,AI Infrastructure,Series A,2.72,28.63,8,6
+AI0154,Data AI 154,2020,Canada,Climate AI,Pre-Seed,0.15,0.85,23,11
+AI0076,Future Labs 76,2019,Brazil,Legal AI,Series B,44.62,372.55,220,12
+AI1062,Intelli Tech 1062,2022,Brazil,Marketing AI,Series A,8.67,79.69,96,17
+AI0581,Future Intelligence 581,2023,Australia,Agriculture AI,Series D,57.72,365.03,245,17
+AI0447,Quantum Analytics 447,2020,Canada,Computer Vision,Series A,8.53,68.32,30,7
+AI0704,Data Systems 704,2025,South Korea,Computer Vision,Pre-Seed,0.42,2.25,18,10
+AI0189,Future Tech 189,2024,France,FinTech AI,Late Stage,174.38,973.77,547,9
+AI0272,Vertex Systems 272,2025,Japan,Healthcare AI,Late Stage,141.72,712.64,743,12
+AI0237,Deep Analytics 237,2023,,Computer Vision,Series C,66.41,278.36,633,2
+AI0488,Mind Tech 488,2021,Netherlands,Agriculture AI,Seed,2.43,17.9,9,13
+AI1179,Mind Robotics 1179,2024,Canada,Computer Vision,Series A,5.01,57.74,25,15
+AI0560,Quantum Analytics 560,2023,South Korea,EdTech AI,Series A,8.92,91.4,106,12
+AI0118,Vertex Labs 118,2023,UAE,Autonomous Vehicles,Series A,16.6,171.25,191,12
+AI0638,Synth Analytics 638,2024,Netherlands,EdTech AI,Seed,1.77,13.32,9,16
+AI1129,Deep Robotics 1129,2023,USA,Healthcare AI,Seed,1.5,11.67,5,17
+AI0751,Nova Intelligence 751,2025,Canada,Generative AI,Seed,2.36,13.81,32,5
+AI0513,Logic Tech 513,2024,UAE,Legal AI,Series D,89.21,312.73,777,15
+AI0634,Core Tech 634,2018,South Korea,Agriculture AI,Series B,18.58,171.0,182,9
+AI0812,Vertex Intelligence 812,2020,Israel,FinTech AI,Series A,7.66,29.97,45,5
+AI1035,Mind Labs 1035,2018,Israel,Autonomous Vehicles,Seed,0.52,5.35,22,13
+AI1054,Data AI 1054,2024,China,EdTech AI,Series A,5.18,20.59,78,13
+AI0127,Mind Analytics 127,2019,Canada,Marketing AI,Series B,4.42,28.8,42,2
+AI0791,Cognify Robotics 791,2023,Australia,Robotics,Series A,18.46,155.49,80,6
+AI0117,Neural Analytics 117,2018,Singapore,EdTech AI,Series A,2.98,18.08,23,12
+AI0474,Intelli AI 474,2021,Israel,NLP,Pre-Seed,0.43,1.94,7,17
+AI0741,Cognify Tech 741,2024,Switzerland,AI Infrastructure,Series B,31.03,243.93,603,12
+AI1030,Intelli Systems 1030,2022,Israel,Computer Vision,Late Stage,74.71,284.54,528,15
+AI0058,Alpha Labs 58,2018,Brazil,Generative AI,Series A,3.47,24.85,53,2
+AI0604,Data Robotics 604,2023,UAE,Cybersecurity AI,Seed,1.24,7.66,7,12
+AI0787,Quantum Systems 787,2024,Australia,Cybersecurity AI,Series C,42.66,327.79,1138,11
+AI1007,Logic Analytics 1007,2021,Japan,Climate AI,Series B,4.91,44.79,14,15
+AI0657,Data Systems 657,2024,USA,EdTech AI,Series D,290.91,2522.27,891,4
+AI0936,Neural Tech 936,2018,Singapore,Retail AI,Seed,0.21,2.26,8,8
+AI1113,Core Tech 1113,2025,Israel,Retail AI,Series A,10.17,110.71,18,8
+AI0106,Future Robotics 106,2019,Israel,Healthcare AI,Series A,3.67,41.9,14,5
+AI0636,Cognify Analytics 636,2019,India,EdTech AI,Series C,32.03,329.35,178,5
+AI0370,Astra Tech 370,2024,UK,Robotics,Seed,0.45,4.55,7,14
+AI0269,Synth Tech 269,2024,Germany,Autonomous Vehicles,Series A,8.51,67.39,112,8
+AI0656,Deep Intelligence 656,2022,India,Cybersecurity AI,Series A,4.97,51.45,44,6
+AI0820,Synth Robotics 820,2018,Singapore,Climate AI,Series A,1.96,10.16,5,10
+AI0823,Data Tech 823,2023,UAE,Cybersecurity AI,Pre-Seed,0.4,3.95,11,1
+AI0047,Nova Tech 47,2025,Germany,Autonomous Vehicles,Series C,80.75,766.6,595,8
+AI0350,Future Robotics 350,2024,Brazil,Generative AI,Series A,27.99,272.44,316,1
+AI0774,Cognify Tech 774,2021,UAE,Legal AI,Seed,1.88,6.93,9,5
+AI0196,Cognify Labs 196,2019,Canada,Cybersecurity AI,Series B,5.06,26.77,81,3
+AI0103,Intelli Tech 103,2019,Switzerland,Cybersecurity AI,Seed,2.84,12.26,15,5
+AI0005,Data Intelligence 5,2020,Netherlands,Agriculture AI,Series D,26.18,103.25,71,5
+AI0620,Mind Systems 620,2020,China,Healthcare AI,Seed,0.84,6.07,19,5
+AI0572,Intelli Intelligence 572,2020,Singapore,NLP,Series A,7.23,31.75,22,6
+AI0053,Mind Robotics 53,2020,Israel,Computer Vision,Series D,135.1,468.03,2109,15
+AI0264,Neural Analytics 264,2018,USA,AI Infrastructure,Seed,0.26,2.71,10,14
+AI1112,Alpha Systems 1112,2018,UAE,Computer Vision,Seed,0.48,5.27,29,4
+AI0444,Orbit Robotics 444,2025,UK,Autonomous Vehicles,Seed,1.72,7.51,16,6
+AI1008,Intelli Intelligence 1008,2022,Japan,Robotics,Seed,0.56,6.58,32,11
+AI0783,Quantum Systems 783,2025,Germany,Climate AI,Series D,105.37,1099.37,1794,1
+AI0838,Vertex Intelligence 838,2022,China,Marketing AI,Series C,52.87,588.05,392,16
+AI0986,Core Robotics 986,2019,South Korea,Marketing AI,Series B,6.05,43.76,94,14
+AI0692,Core Robotics 692,2023,Germany,Computer Vision,Pre-Seed,0.39,4.4,11,14
+AI0305,Vision Intelligence 305,2019,Singapore,Legal AI,Late Stage,40.04,178.77,498,1
+AI0342,Core Analytics 342,2021,UK,Healthcare AI,Series A,3.07,29.35,23,8
+AI0899,Quantum Tech 899,2024,USA,Marketing AI,Series B,61.43,374.47,297,13
+AI0314,Logic Tech 314,2024,Canada,Cybersecurity AI,Series D,121.82,1134.18,411,13
+AI0150,Astra Systems 150,2025,UK,Agriculture AI,Series A,2.77,19.74,7,10
+AI0125,Core Labs 125,2022,France,Retail AI,Seed,1.57,14.19,16,4
+AI1082,Vertex Labs 1082,2022,France,Healthcare AI,Series B,4.75,31.63,18,2
+AI0575,Mind Intelligence 575,2024,Australia,Autonomous Vehicles,Pre-Seed,0.95,10.42,8,9
+AI0698,Synth Tech 698,2019,China,Autonomous Vehicles,,0.42,1.79,18,12
+AI0665,Intelli AI 665,2018,Switzerland,NLP,Seed,0.68,7.88,15,7
+AI0051,Synth Systems 51,2024,Switzerland,FinTech AI,Pre-Seed,0.33,3.4,6,17
+AI0727,Nova Systems 727,2020,South Korea,EdTech AI,Series B,15.86,144.29,56,13
+AI0800,Neural Analytics 800,2020,Switzerland,Marketing AI,Seed,1.31,11.16,9,15
+AI0834,Orbit Labs 834,2021,Germany,Agriculture AI,Series A,3.64,36.49,11,4
+AI0354,Future Robotics 354,2025,Singapore,AI Infrastructure,Seed,4.15,28.73,35,13
+AI1172,Cognify Analytics 1172,2020,UK,Legal AI,Series A,,23.33,13,1
+AI0143,Data Robotics 143,2021,South Korea,Healthcare AI,Series A,10.52,49.71,22,2
+AI0471,Nova Labs 471,2022,South Korea,Autonomous Vehicles,Late Stage,77.38,538.49,476,7
+AI0654,Astra Analytics 654,2022,Israel,Cybersecurity AI,Series B,26.5,137.62,333,13
+AI0400,Nova Systems 400,2018,Netherlands,Cybersecurity AI,Series A,6.64,45.87,18,5
+AI0931,Cognify Intelligence 931,2024,China,Computer Vision,Series A,3.16,13.62,37,12
+AI0949,Mind Systems 949,2023,USA,FinTech AI,Series A,5.11,26.38,58,13
+AI0321,Orbit Tech 321,2025,India,EdTech AI,Series B,22.39,80.95,544,10
+AI0020,Core AI 20,2020,China,Marketing AI,Series A,0.9,5.42,25,8
+AI0685,Data AI 685,2018,Switzerland,EdTech AI,Series A,9.53,57.86,97,14
+AI0036,Nova Intelligence 36,2022,South Korea,NLP,Series C,29.62,235.93,461,3
+AI0825,Synth Intelligence 825,2025,India,EdTech AI,Seed,1.85,12.49,11,5
+AI0506,Quantum AI 506,2018,Singapore,Cybersecurity AI,Pre-Seed,0.18,0.63,17,14
+AI0828,Mind Robotics 828,2019,Israel,Generative AI,Seed,0.76,5.41,11,6
+AI1090,Deep Systems 1090,2019,Singapore,Legal AI,Series A,14.52,147.07,117,12
+AI0408,Mind Robotics 408,2025,India,Climate AI,Series A,5.55,45.43,37,13
+AI0818,Core Robotics 818,2020,USA ,Generative AI,Series A,4.2,47.77,66,9
+AI0867,Mind Tech 867,2022,France,NLP,Series C,43.93,208.95,280,9
+AI0538,Future Intelligence 538,2024,UAE,Climate AI,Seed,0.84,6.91,9,11
+AI0759,Astra Labs 759,2018,Japan,EdTech AI,Series C,31.3,148.95,293,13
+AI1088,Alpha Analytics 1088,2025,Netherlands,AI Infrastructure,Late Stage,150.28,1200.94,2743,10
+AI0926,Cognify AI 926,2020,UAE,Agriculture AI,Series A,1.32,13.26,5,13
+AI0039,Future Intelligence 39,2018,China,Gen AI,Series B,14.87,138.86,209,1
+AI0176,Neural Robotics 176,2023,Canada,EdTech AI,Series A,2.72,18.79,3,5
+AI0246,Quantum AI 246,2023,USA,Autonomous Vehicles,Pre-Seed,0.55,6.01,13,3
+AI0811,NexGen Labs 811,2020,Australia,FinTech AI,Seed,0.61,2.85,10,17
+AI1104,Synth Robotics 1104,2018,China,Generative AI,Series A,2.34,21.98,8,10
+AI0998,Nova Labs 998,2021,China,Autonomous Vehicles,Late Stage,220.51,843.07,2923,5
+AI0785,Data Systems 785,2019,Brazil,EdTech AI,Series A,9.7,93.68,63,10
+AI0669,Future Intelligence 669,2022,Germany,AI Infrastructure,Late Stage,162.69,495.2,1284,12
+AI0490,Vision Tech 490,2022,China,EdTech AI,Series C,12.2,112.91,129,13
+AI0155,Logic Tech 155,2022,Canada,NLP,Seed,2.16,11.64,27,6
+AI0639,Vision Tech 639,2019,Canada,Generative AI,Seed,1.09,9.07,5,15
+AI0663,Future Labs 663,2022,Switzerland,Autonomous Vehicles,Series D,73.24,510.72,2016,17
+AI0854,Neural Analytics 854,2020,Switzerland,Climate AI,Late Stage,97.85,1024.27,368,17
+AI0288,Core Robotics 288,2022,Singapore,Healthcare AI,Seed,1.07,7.42,14,3
+AI0626,Future Robotics 626,2019,Netherlands,Agriculture AI,Series A,3.74,26.99,19,10
+AI1146,Vision Labs 1146,2023,South Korea,Healthcare AI,Series A,5.59,58.7,20,7
+AI0686,Nova Intelligence 686,2023,UK,Computer Vision,Series A,7.36,82.83,69,6
+AI1036,Logic Intelligence 1036,2019,,Autonomous Vehicles,Series B,14.19,156.92,75,17
+AI0905,Orbit Systems 905,2020,Singapore,Autonomous Vehicles,Series B,9.59,80.51,22,12
+AI0570,Vertex Robotics 570,2024,UK,Agriculture AI,Pre-Seed,0.81,4.95,8,8
+AI1163,Orbit Intelligence 1163,2019,France,Agriculture AI,Series A,3.8,13.17,21,9
+AI0735,Vision AI 735,2019,Australia,Legal AI,Seed,0.45,3.31,17,6
+AI0793,NexGen Systems 793,2022,UAE,NLP,Series A,6.1,70.88,21,3
+AI0018,Vertex Analytics 18,2025,Japan,FinTech AI,Series B,16.95,140.56,201,8
+AI0128,Neural Intelligence 128,2018,UK,Autonomous Vehicles,Series A,11.9,109.89,66,7
+AI0323,NexGen Labs 323,2021,Japan,Computer Vision,Series A,2.09,19.58,26,8
+AI0256,Nova Tech 256,2020,Israel,FinTech AI,Series C,54.6,602.06,283,13
+AI0978,Vision AI 978,2025,France,Legal AI,Pre-Seed,0.37,4.12,10,4
+AI1199,Astra Labs 1199,2020,South Korea,AI Infrastructure,Series B,8.59,73.09,68,14
+AI0191,Cognify Systems 191,2024,China,Healthcare AI,Series B,33.82,152.84,226,6
+AI0116,Neural Systems 116,2021,Australia,Cybersecurity AI,Series A,6.7,65.92,27,9
+AI1193,Core Tech 1193,2022,Netherlands,Healthcare AI,Late Stage,238.79,2579.12,1180,6
+AI0922,NexGen Intelligence 922,2024,Singapore,Healthcare AI,Series C,28.03,238.17,479,15
+AI0607,Alpha Labs 607,2024,Switzerland,FinTech AI,Series A,12.59,85.07,145,3
+AI0181,Future Tech 181,2022,Singapore,Robotics,Series A,1.81,17.34,10,5
+AI0302,Future AI 302,2018,Japan,FinTech AI,Series C,26.92,137.71,289,6
+AI0497,Logic Systems 497,2020,Singapore,Marketing AI,Series B,11.19,90.44,171,15
+AI0349,Astra Robotics 349,2025,South Korea,Legal AI,Series B,25.91,214.08,589,12
+AI1055,Quantum Intelligence 1055,2018,India,Healthcare AI,Series B,34.07,129.19,603,8
+AI1020,Data Systems 1020,2022,Australia,FinTech AI,Seed,0.31,2.16,21,16
+AI0745,Nova Intelligence 745,2020,Singapore,EdTech AI,Pre-Seed,0.26,2.83,10,10
+AI1101,NexGen Systems 1101,2020,Switzerland,Climate AI,Series B,51.59,523.95,283,13
+AI0991,Neural Analytics 991,2019,Switzerland,Robotics,Series B,-10.76,108.19,148,8
+AI0518,Vertex AI 518,2023,Australia,Autonomous Vehicles,Seed,1.84,8.31,22,6
+AI0373,Data Systems 373,2019,USA ,Legal AI,Seed,2.14,12.25,15,3
+AI0046,Intelli Analytics 46,2021,Australia,Generative AI,Series A,3.81,23.56,78,11
+AI0477,Neural Robotics 477,2018,,Agriculture AI,Series C,16.34,118.76,87,3
+AI0158,Data Labs 158,2019,USA,Marketing AI,Series D,38.04,262.07,132,12
+AI1066,Nova Analytics 1066,2020,Japan,Legal AI,Series C,69.77,392.98,1645,10
+AI0172,Nova Labs 172,2022,Germany,Marketing AI,Pre-Seed,0.45,4.3,15,13
+AI0017,Neural Tech 17,2021,Singapore,Generative AI,Series B,21.2,216.11,266,3
+AI0512,Future Labs 512,2019,Switzerland,Cybersecurity AI,Seed,0.7,7.54,6,8
+AI0049,Logic Systems 49,2023,Canada,FinTech AI,Series C,60.28,438.09,243,9
+AI0192,Nova Systems 192,2020,China,Generative AI,Seed,0.97,4.24,16,4
+AI0547,Mind Intelligence 547,2022,Switzerland,AI Infrastructure,Series A,3.27,31.82,14,13
+AI0516,Vertex Labs 516,2020,,EdTech AI,Series A,1.36,13.32,9,7
+AI1014,Vision Systems 1014,2020,Brazil,AI Infrastructure,Series B,11.82,51.92,55,9
+AI1079,Synth Intelligence 1079,2023,Netherlands,Healthcare AI,Series A,10.97,71.72,106,13
+AI0829,Deep Intelligence 829,2024,Australia,Cybersecurity AI,Series D,165.4,1473.05,2143,2
+AI1097,Cognify Tech 1097,2019,Israel,Retail AI,Seed,1.37,9.48,6,10
+AI0481,Cognify Intelligence 481,2021,Japan,Autonomous Vehicles,Pre-Seed,0.56,2.55,4,15
+AI1148,Intelli Analytics 1148,2019,China,Agriculture AI,Series B,14.09,74.59,262,3
+AI0284,Astra Intelligence 284,2024,Brazil,Computer Vision,Pre-Seed,0.3,2.23,9,13
+AI1049,Cognify Systems 1049,2022,UAE,AI Infrastructure,Series A,3.85,17.6,13,12
+AI0798,Future Robotics 798,2024,UAE,AI Infrastructure,Series B,25.46,251.13,385,12
+AI0974,Intelli Analytics 974,2020,UAE,Agriculture AI,Series A,10.16,39.02,66,5
+AI0226,Astra Tech 226,2019,South Korea,FinTech AI,Series A,3.17,34.86,29,4
+AI0027,Quantum Analytics 27,2023,France,Computer Vision,Series B,23.83,201.59,90,14
+AI0283,Intelli Systems 283,2023,South Korea,Autonomous Vehicles,Series D,142.2,710.79,498,8
+AI1169,Mind AI 1169,2020,Singapore,Healthcare AI,Seed,1.28,14.45,27,4
+AI0438,Synth Tech 438,2025,Japan,EdTech AI,Late Stage,290.86,1721.61,3120,10
+AI1187,Core Tech 1187,2025,Brazil,Cybersecurity AI,Seed,5.04,29.79,34,7
+AI0365,Alpha Labs 365,2024,USA,Autonomous Vehicles,Seed,1.49,12.41,19,8
+AI0230,Alpha Labs 230,2022,Switzerland,Autonomous Vehicles,Pre-Seed,0.43,2.76,10,14
+AI0038,Orbit Robotics 38,2018,Brazil,Retail AI,Series A,1.98,11.17,23,16
+AI0670,Alpha AI 670,2024,France,Healthcare AI,Seed,2.42,11.88,40,3
+AI0750,Astra Tech 750,2019,Australia,Robotics,Late Stage,27.32,209.55,343,9
+AI1200,Core Labs 1200,2022,Canada,Robotics,Seed,0.42,2.57,20,12
+AI0375,Astra AI 375,2018,Netherlands,Cybersecurity AI,Seed,0.92,8.28,10,10
+AI0470,Cognify Robotics 470,2021,Singapore,Agriculture AI,Series C,6.93,82.84,29,10
+AI0883,Mind Robotics 883,2020,Japan,Robotics,Late Stage,429.54,4127.17,2997,9
+AI1044,Intelli Labs 1044,2018,Israel,Legal AI,Series B,12.33,92.11,61,17
+AI0460,Orbit Analytics 460,2020,Brazil,Computer Vision,Pre-Seed,0.39,2.36,19,4
+AI0688,Mind Intelligence 688,2022,Australia,FinTech AI,Seed,0.86,7.76,7,11
+AI0033,Deep AI 33,2021,Switzerland,Climate AI,Series B,17.06,82.68,124,17
+AI0640,Quantum Tech 640,2025,Canada,Autonomous Vehicles,Seed,1.22,6.49,22,17
+AI1058,Deep Robotics 1058,2024,Netherlands,Autonomous Vehicles,Seed,2.53,21.48,26,15
+AI0195,Nova Systems 195,2024,Germany,AI Infrastructure,Series D,107.23,502.54,681,9
+AI1125,NexGen Labs 1125,2023,Australia,Climate AI,Seed,2.31,23.66,6,3
+AI1133,NexGen Robotics 1133,2023,Israel,Marketing AI,Pre-Seed,0.18,1.1,12,12
+AI0987,Deep Analytics 987,2021,Singapore,Cybersecurity AI,Late Stage,217.94,2034.88,2725,6
+AI0504,Cognify Systems 504,2025,Switzerland,NLP,Seed,1.33,5.29,6,8
+AI0916,Intelli Robotics 916,2023,Canada,Autonomous Vehicles,Series C,42.53,342.2,452,16
+AI1086,Deep Robotics 1086,2018,Singapore,Autonomous Vehicles,Pre-Seed,0.21,1.02,7,15
+AI1023,Vertex Intelligence 1023,2019,Netherlands,Robotics,Series C,35.98,217.07,133,4
+AI1107,Vertex Analytics 1107,2022,France,Agriculture AI,Series A,2.54,23.51,47,9
+AI0801,Synth Tech 801,2018,Germany,Autonomous Vehicles,Series A,3.0,19.89,25,12
+AI0580,Neural Robotics 580,2019,Israel,Marketing AI,Seed,0.55,4.63,25,13
+AI0161,Alpha Labs 161,2024,Netherlands,Healthcare AI,Series B,9.31,56.6,72,11
+AI0681,Alpha Labs 681,2025,Israel,NLP,Pre-Seed,0.35,3.78,7,9
+AI0957,Core Analytics 957,2021,India,EdTech AI,Seed,0.86,4.53,14,4
+AI1150,Alpha Tech 1150,2018,Japan,Climate AI,Seed,2.03,23.46,4,7
+AI0163,Logic Labs 163,2025,Brazil,EdTech AI,Series C,67.08,369.02,670,3
+AI0822,Quantum Intelligence 822,2021,USA,Generative AI,Series A,2.62,14.87,4,13
+AI0706,Vertex AI 706,2022,,Generative AI,,0.41,1.78,3,2
+AI1037,Cognify Labs 1037,2025,Germany,Robotics,Series A,6.84,28.32,26,12
+AI0878,Data AI 878,2019,China,Autonomous Vehicles,Seed,1.03,5.78,12,1
+AI0896,Logic Robotics 896,2021,Japan,Computer Vision,Late Stage,195.31,1504.81,1584,5
+AI0914,Neural Labs 914,2019,China,AI Infrastructure,Pre-Seed,,1.1,5,5
+AI0695,Data Analytics 695,2019,UAE,Autonomous Vehicles,Series D,37.81,324.59,159,4
+AI0153,Core Intelligence 153,2018,South Korea,Generative AI,Series A,3.92,13.46,37,8
+AI1128,Vision Analytics 1128,2019,UK,Retail AI,Late Stage,98.24,1134.74,1002,15
+AI1034,Vertex Analytics 1034,2023,Switzerland,Autonomous Vehicles,Series A,4.71,36.81,37,6
+AI0510,Intelli Analytics 510,2019,UK,Generative AI,Series A,1.29,9.42,16,16
+AI0112,Orbit Analytics 112,2024,Israel,Autonomous Vehicles,Seed,2.59,26.05,17,13
+AI0227,Nova Intelligence 227,2022,Singapore,Healthcare AI,Seed,0.77,7.58,10,15
+AI1023,Vertex Intelligence 1023,2019,Netherlands,Robotics,Series C,35.98,217.07,133,4
+AI0852,Astra AI 852,2019,Singapore,Computer Vision,Series D,80.29,531.87,262,15
+AI0104,Vision Tech 104,2021,USA,Agriculture AI,Seed,0.43,3.64,3,15
+AI0422,Vertex Intelligence 422,2019,Brazil,Robotics,,41.69,337.18,415,15
+AI0420,Neural Robotics 420,2023,Germany,Generative AI,Series A,3.93,39.34,129,9
+AI0968,Quantum Robotics 968,2023,Canada,Healthcare AI,Series B,6.52,58.8,28,5
+AI0625,Neural Intelligence 625,2022,China,Agriculture AI,Series C,49.23,241.91,1040,2
+AI0587,Mind Analytics 587,2023,UAE,Autonomous Vehicles,Series A,9.0,76.83,137,14
+AI1080,Data Labs 1080,2018,Australia,Retail AI,Series B,13.16,71.27,312,14
+AI0920,Vertex Labs 920,2025,Brazil,EdTech AI,Series A,11.33,75.75,112,16
+AI0673,Nova Analytics 673,2023,Australia,Retail AI,Seed,0.94,3.51,10,17
+AI0120,Alpha Robotics 120,2022,UK,FinTech AI,Seed,1.35,12.19,49,15
+AI0054,Intelli Intelligence 54,2021,China,Generative AI,Series A,1.41,5.74,9,7
+AI0152,Intelli Labs 152,2020,Brazil,EdTech AI,Series D,227.6,2033.45,1228,8
+AI0404,Synth Systems 404,2018,Australia,NLP,Series C,36.14,188.51,812,9
+AI0751,Nova Intelligence 751,2025,Canada,Generative AI,Seed,2.36,13.81,32,5
+AI0208,Core Robotics 208,2021,Canada,Agriculture AI,Seed,1.26,11.24,24,16
+AI1154,Orbit Robotics 1154,2019,South Korea,Legal AI,Series A,6.51,30.56,14,9
+AI0659,Astra AI 659,2021,Israel,Marketing AI,Seed,1.84,11.22,33,8
+AI1116,Intelli AI 1116,2024,Switzerland,Cybersecurity AI,Seed,0.54,4.1,11,17
+AI0233,Logic Robotics 233,2021,USA,Robotics,Series A,7.05,30.94,14,17
+AI0009,Cognify Analytics 9,2024,USA,AI Infrastructure,Pre-Seed,0.27,2.0,4,11
+AI1015,Logic Intelligence 1015,2022,France,Autonomous Vehicles,Late Stage,102.02,1178.71,642,12
+AI0160,Logic Labs 160,2021,Netherlands,Autonomous Vehicles,Seed,0.43,1.5,11,11
+AI0037,Vision Robotics 37,2021,UAE,AI Infrastructure,Series A,5.49,52.06,82,3
+AI0453,Nova AI 453,2023,Netherlands,Healthcare AI,Series C,138.84,872.17,1851,3
+AI0652,NexGen Labs 652,2025,Switzerland,Generative AI,Series A,10.33,49.93,53,9
+AI0254,Data AI 254,2022,USA,Agriculture AI,Seed,1.0,3.42,9,6
+AI0304,Neural Tech 304,2023,Brazil,Agriculture AI,Seed,0.65,7.08,5,5
+AI0897,Alpha AI 897,2023,Singapore,NLP,Late Stage,732.34,5376.72,8672,7
+AI1068,Deep Labs 1068,2024,Australia,Robotics,Seed,1.05,8.11,10,16
+AI0881,Quantum Robotics 881,2022,Brazil,EdTech AI,Series B,9.1,86.28,89,12
+AI1152,Logic Tech 1152,2022,Australia,Generative AI,Seed,1.22,7.19,6,14
+AI0624,Nova Robotics 624,2019,Japan,EdTech AI,Series B,16.47,145.38,264,3
+AI0346,Vertex Tech 346,2024,Netherlands,Agriculture AI,Series A,3.03,19.76,56,17
+AI1050,Deep Systems 1050,2018,UAE,AI Infrastructure,Seed,0.49,5.64,10,2
+AI0263,NexGen Intelligence 263,2022,UK,Robotics,Series B,12.0,98.54,344,11
+AI0151,Alpha AI 151,2020,Brazil,AI Infrastructure,,58.83,408.21,227,1
+AI0473,Data Systems 473,2020,UK,Healthcare-AI,Seed,0.49,2.41,10,6
+AI0641,Nova Analytics 641,2023,UK,Marketing AI,Series D,144.91,1317.48,1108,1
+AI0047,Nova Tech 47,2025,Germany,Autonomous Vehicles,Series C,80.75,766.6,595,8
+AI1149,NexGen Robotics 1149,2020,Switzerland,Generative AI,Pre-Seed,0.68,4.45,3,6
+AI0551,Neural Intelligence 551,2018,Singapore,Agriculture AI,Series C,29.12,176.87,299,14
+AI0929,Nova Intelligence 929,2023,UAE,Agriculture AI,Seed,2.07,22.32,12,15
+AI0489,Data Labs 489,2018,UAE,NLP,Seed,,34.58,14,15
+AI1100,Logic Systems 1100,2020,Brazil,Cybersecurity AI,Series A,4.23,16.06,37,10
+AI0147,Deep Analytics 147,2020,India,Climate AI,Late Stage,66.4,449.33,412,6
+AI0403,Vertex Tech 403,2020,India,Climate AI,Seed,0.88,8.5,6,11
+AI0955,Astra AI 955,2020,UK,Agriculture AI,Series A,10.35,43.5,76,4
+AI1144,Quantum Analytics 1144,2024,Canada,Computer Vision,Series C,22.71,254.87,356,10
+AI0660,Vision Labs 660,2019,Switzerland,Retail AI,Series A,6.04,58.72,29,1
+AI0464,Intelli Intelligence 464,2018,USA,Cybersecurity AI,Late Stage,91.29,768.3,335,6
+AI0187,Orbit Systems 187,2019,UAE,Cybersecurity AI,Seed,0.63,4.47,13,17
+AI0609,Astra Systems 609,2021,China,EdTech AI,Series B,27.09,257.37,128,9
+AI0144,Data Labs 144,2025,UAE,Climate AI,Series B,13.59,125.44,89,1
+AI0752,Nova Systems 752,2022,UK,FinTech AI,Pre-Seed,0.4,1.2,3,4
+AI0982,NexGen Labs 982,2025,South Korea,Generative AI,Series C,78.23,565.92,514,16
+AI0198,Future Labs 198,2021,Israel,Retail AI,Series A,13.99,143.44,156,15
+AI0884,NexGen AI 884,2025,USA,Retail AI,Series A,2.88,30.01,16,1
+AI0280,Future Labs 280,2019,Germany,Cybersecurity AI,Series C,16.41,152.32,308,11
+AI0294,Cognify Analytics 294,2019,Australia,AI Infrastructure,Seed,1.53,5.3,10,4
+AI1108,Neural Labs 1108,2023,Japan,Retail AI,Series B,25.83,276.55,371,16
+AI0401,Cognify AI 401,2025,Brazil,Retail AI,Seed,1.39,5.49,9,3
+AI0123,Quantum Systems 123,2019,India,Robotics,Series C,19.22,167.17,160,13
+AI0203,Neural Tech 203,2024,UAE,Legal AI,Seed,0.95,9.21,9,6
+AI0836,Future Robotics 836,2021,Netherlands,Generative AI,Series C,28.3,142.11,320,15
+AI0247,Astra Intelligence 247,2018,China,Computer Vision,Series A,3.6,23.98,17,6
+AI1159,Intelli Robotics 1159,2021,UAE,Legal AI,Series B,6.28,62.89,112,3
+AI0385,Deep Analytics 385,2022,South Korea,Generative AI,Series C,34.0,233.55,123,17
+AI0855,Alpha Tech 855,2024,Canada,Legal AI,Series A,22.48,257.78,151,5
+AI0220,Quantum Labs 220,2024,Canada,Autonomous Vehicles,Series A,12.27,81.47,105,15
+AI0642,Neural Robotics 642,2023,Germany,Cybersecurity AI,Seed,1.2,12.22,5,11
+AI0002,Alpha Tech 2,2021,Australia,AI Infrastructure,Series C,22.21,241.25,204,16
+AI0113,NexGen Tech 113,2025,UK,Robotics,Series A,14.62,150.2,52,13
+AI0699,Future Intelligence 699,2019,France,Climate AI,Seed,0.15,1.78,8,5
+AI0952,Future Robotics 952,2021,Brazil,EdTech AI,Series C,34.69,207.43,216,2
+AI1098,Logic AI 1098,2023,India ,FinTech AI,Series A,6.35,31.62,59,8
+AI0442,Mind Systems 442,2025,South Korea,NLP,Series C,102.71,763.49,1494,2
+AI0664,Cognify Labs 664,2023,India,Generative AI,Series C,147.23,1218.53,913,8
+AI1115,Core Systems 1115,2024,China,Computer Vision,Pre-Seed,0.19,1.56,19,17
+AI0318,Intelli Labs 318,2018,Netherlands,Robotics,Pre-Seed,0.29,2.8,8,15
+AI0649,Logic Robotics 649,2025,Australia,Computer Vision,Pre-Seed,1.04,4.48,3,12
+AI0710,Orbit Labs 710,2025,Canada,EdTech AI,Series B,29.66,133.52,595,10
+AI0973,NexGen Analytics 973,2018,UK,Gen AI,Seed,1.43,15.21,3,12
+AI0628,Orbit Labs 628,2023,France,Climate AI,Series B,10.63,62.1,154,15
+AI0633,Cognify Systems 633,2022,UAE,Cybersecurity AI,Series C,16.5,138.04,55,13
+AI1191,Astra Tech 1191,2020,Japan,Marketing AI,Series A,1.11,12.95,29,10
+AI1126,Logic AI 1126,2025,China,Legal AI,Series A,29.53,167.27,244,15
+AI0796,Logic Tech 796,2024,India,Legal AI,Seed,1.3,11.59,23,9
+AI0646,Deep Labs 646,2022,Canada,Marketing AI,Series C,40.29,450.96,264,16
+AI1013,Alpha Tech 1013,2023,France,Retail AI,Pre-Seed,0.18,0.54,3,10
+AI0557,Nova Systems 557,2025,India ,NLP,Seed,2.64,29.29,40,5
+AI0682,Vision Labs 682,2022,Brazil,NLP,Series B,10.22,55.86,98,16
+AI0578,NexGen Analytics 578,2023,Australia,FinTech AI,Pre-Seed,0.25,1.62,5,10
+AI0525,Data Systems 525,2019,Netherlands,Legal AI,Series B,26.61,161.1,232,17
+AI1060,Data Intelligence 1060,2021,Germany,Generative AI,Series A,3.89,26.74,27,9
+AI0541,Future Robotics 541,2024,Australia,Computer Vision,Series B,38.88,310.45,336,13
+AI0749,Data Robotics 749,2018,Australia,Climate AI,Pre-Seed,0.4,4.43,4,7
+AI1129,Deep Robotics 1129,2023,USA,Healthcare AI,Seed,1.5,11.67,5,17
+AI0485,Deep Analytics 485,2022,Switzerland,EdTech AI,Late Stage,114.12,990.11,2862,11
+AI0096,Deep Systems 96,2023,Switzerland,Generative AI,Late Stage,337.95,2926.31,2261,12
+AI1021,Intelli Analytics 1021,2024,Canada,Healthcare AI,Late Stage,152.54,544.95,1244,10
+AI0564,Mind Labs 564,2024,Australia,Retail AI,Series A,3.56,11.84,32,8
+AI0743,Future Systems 743,2019,China,Retail AI,Seed,0.67,6.26,9,1
+AI0864,Vision Intelligence 864,2019,Germany,Autonomous Vehicles,Series A,2.23,14.05,3,17
+AI0892,Alpha AI 892,2024,China,Healthcare AI,Seed,1.87,14.28,8,4
+AI1039,NexGen Labs 1039,2018,Brazil,Agriculture AI,Seed,1.64,10.04,10,1
+AI0207,NexGen Tech 207,2025,Switzerland,Legal AI,Series A,5.35,32.45,71,16
+AI0393,Cognify Systems 393,2025,India,Healthcare AI,Late Stage,200.93,1104.56,2273,11
+AI0795,Vision Labs 795,2018,France,Agriculture AI,Series C,18.54,133.3,75,10
+AI0871,NexGen Intelligence 871,2022,Canada,Climate AI,Pre-Seed,0.31,1.14,9,13
+AI0398,Vertex Tech 398,2023,Japan,EdTech AI,Pre-Seed,0.22,1.45,31,12
+AI0767,Nova Tech 767,2022,France,Healthcare AI,Series B,17.91,107.22,187,1
+AI1119,Astra Analytics 1119,2022,South Korea,Healthcare AI,Seed,0.5,2.84,19,13
+AI1029,Synth Tech 1029,2022,USA,AI Infrastructure,Seed,0.42,1.91,5,8
+AI0643,Alpha Systems 643,2025,France,Autonomous Vehicles,Series A,6.11,27.4,41,16
+AI0613,Data Intelligence 613,2021,Canada,FinTech AI,Series C,38.86,302.45,170,10
+AI0961,Vision AI 961,2018,Japan,FinTech AI,Pre-Seed,0.18,2.06,6,10
+AI0726,Core Labs 726,2022,UAE,Climate AI,Series A,1.53,6.83,24,15
+AI0684,Neural Labs 684,2021,Netherlands,Healthcare AI,Series B,15.15,156.51,64,17
+AI0099,Future Analytics 99,2023,USA,Marketing AI,Seed,1.86,8.59,17,12
+AI0805,Mind Labs 805,2023,Brazil,Generative AI,Series D,90.28,991.95,402,14
+AI0407,Neural Analytics 407,2023,Switzerland,Computer Vision,Series C,23.45,88.21,124,17
+AI0503,Logic Robotics 503,2022,Israel,Computer Vision,Series A,6.58,69.81,62,17
+AI1072,Neural Intelligence 1072,2019,France,Marketing AI,Series C,49.42,227.42,705,6
+AI1057,Alpha Intelligence 1057,2025,India,FinTech AI,Series C,48.25,265.51,462,2
+AI0930,Vision AI 930,2018,Switzerland,Robotics,Series B,11.52,46.29,65,13
+AI0780,Astra AI 780,2020,Netherlands,Legal AI,Series A,19.07,102.59,202,4
+AI0201,Neural AI 201,2024,France,Autonomous Vehicles,Series B,32.41,291.21,400,1
+AI0135,Synth AI 135,2024,Switzerland,AI Infrastructure,Series A,4.15,40.64,38,1
+AI1052,Synth AI 1052,2018,Australia,Cybersecurity AI,Series A,3.4,40.06,31,12
+AI0041,Vertex Robotics 41,2020,Israel,Legal AI,Series A,4.59,45.3,34,17
+AI1018,Data Tech 1018,2020,Australia,FinTech AI,Series A,3.29,21.06,44,5
+AI0231,Data Tech 231,2023,Canada,EdTech AI,Pre-Seed,0.34,1.92,28,5
+AI0379,Quantum Systems 379,2019,Singapore,NLP,Series A,2.24,18.23,23,3
+AI0289,Synth Labs 289,2018,Canada,FinTech AI,Seed,1.42,15.03,10,5
+AI0419,Data Tech 419,2025,Brazil,Generative AI,Late Stage,431.63,2638.2,2201,6
+AI0392,Data AI 392,2020,Canada,Autonomous Vehicles,Seed,0.86,7.24,7,6
+AI0593,Cognify Robotics 593,2022,South Korea,AI Infrastructure,Seed,0.27,3.14,8,1
+AI1087,Mind Analytics 1087,2018,USA,FinTech AI,Seed,0.62,5.6,7,9
+AI0648,Data AI 648,2018,Netherlands,Autonomous Vehicles,Seed,0.59,6.38,44,14
+AI0521,Alpha Labs 521,2025,Netherlands,Cybersecurity AI,Series B,37.81,412.03,437,2
+AI0065,NexGen Tech 65,2024,Australia,Robotics,Series A,7.24,53.76,19,17
+AI0015,Astra Systems 15,2025,UAE,Generative AI,Series B,28.57,207.0,583,3
+AI1065,Core AI 1065,2023,Israel,Robotics,Series A,,14.44,27,1
+AI0493,Orbit Labs 493,2018,Canada,Computer Vision,Seed,0.45,3.87,9,17
+AI0380,Neural Analytics 380,2018,UK,Cybersecurity AI,Series D,137.48,1103.85,3716,6
+AI0188,Astra AI 188,2024,Switzerland,Computer Vision,Seed,0.82,8.38,3,7
+AI0764,Cognify Intelligence 764,2019,Japan,FinTech AI,Series A,3.29,22.03,36,10
+AI0217,NexGen Intelligence 217,2021,Brazil,Climate AI,Series B,9.46,64.33,28,12
+AI0792,Data Robotics 792,2025,Singapore,AI Infrastructure,Series B,8.82,95.71,47,10
+AI1077,Deep Labs 1077,2023,India,NLP,Series A,5.59,30.13,7,12
+AI0879,Astra Tech 879,2022,Germany,Legal AI,Late Stage,75.32,788.34,1019,3
+AI0338,Data AI 338,2020,Netherlands,Retail AI,Series A,3.37,31.81,34,16
+AI0720,Nova Systems 720,2021,Netherlands,Generative AI,Series A,3.47,31.84,23,13
+AI0296,Mind Tech 296,2021,Switzerland,FinTech AI,Seed,0.41,4.03,7,8
+AI1017,Deep Tech 1017,2019,UAE,Cybersecurity AI,Seed,0.86,10.1,18,3
+AI0456,Vision Systems 456,2020,Australia,Computer Vision,Series A,2.11,11.62,8,9
+AI0816,Intelli Systems 816,2022,Switzerland,Robotics,Series A,11.08,59.65,77,12
+AI0270,Nova Intelligence 270,2020,Singapore,AI Infrastructure,Series A,1.41,5.07,6,9
+AI0996,Neural AI 996,2022,Netherlands,Computer Vision,Late Stage,100.21,1025.38,1098,7
+AI0202,Cognify Tech 202,2025,China,Retail AI,Seed,0.49,2.47,3,8
+AI0162,Vertex Analytics 162,2018,Singapore,Generative AI,Series B,13.34,145.31,61,5
+AI0730,Orbit AI 730,2021,South Korea,EdTech AI,Seed,0.26,1.81,9,10
+AI0402,Vision Intelligence 402,2021,Singapore,FinTech AI,Series A,6.77,26.68,75,13
+AI0703,Cognify Labs 703,2018,UAE,Computer Vision,Pre-Seed,0.15,1.69,12,12
+AI1130,Core Analytics 1130,2019,Germany,Retail AI,Series A,4.67,30.64,119,10
+AI0566,Vision Analytics 566,2019,South Korea,Legal AI,Seed,0.9,6.91,19,13
+AI1022,Logic Systems 1022,2018,UK,NLP,Pre-Seed,0.24,2.0,4,17
+AI1026,Cognify AI 1026,2023,India,Generative AI,Series B,10.01,87.51,123,12
+AI1105,Data Intelligence 1105,2023,Singapore,Generative AI,Series B,11.46,125.58,142,2
+AI0206,Quantum AI 206,2022,Israel,Legal AI,Pre-Seed,0.15,1.26,8,3
+AI0035,Quantum AI 35,2023,Netherlands,Computer Vision,Pre-Seed,0.24,2.62,18,2
+AI0776,Intelli Systems 776,2022,Germany,Autonomous Vehicles,Series B,7.23,71.43,51,9
+AI0509,Neural Tech 509,2025,India,FinTech AI,Seed,1.3,6.16,10,11
+AI0142,Quantum Analytics 142,2018,South Korea,Agriculture AI,Late Stage,29.75,224.76,156,6
+AI0092,Quantum Robotics 92,2021,India,EdTech AI,Series A,-6.49,62.21,214,11
+AI0898,Future Tech 898,2021,USA,Retail AI,Series B,21.22,204.66,506,3
+AI0565,Deep AI 565,2021,UK,Autonomous Vehicles,Seed,0.71,5.03,9,14
+AI0777,Neural AI 777,2018,Netherlands,NLP,Series B,10.73,104.41,163,3
+AI0242,NexGen Systems 242,2024,,Climate AI,Series B,10.41,60.47,49,3
+AI0014,Neural AI 14,2020,UK,Cybersecurity AI,Series A,14.65,70.54,425,8
+AI0316,Alpha Robotics 316,2025,Brazil,EdTech AI,Series B,19.94,76.45,142,15
+AI0601,Future Robotics 601,2022,South Korea,Retail AI,Series D,80.21,867.25,315,2
+AI0388,NexGen Robotics 388,2024,USA,Marketing AI,Series C,28.51,171.73,357,12
+AI0167,Quantum Intelligence 167,2025,Germany,Climate AI,Series B,23.43,152.88,343,8
+AI0841,Mind AI 841,2024,China,Climate AI,Pre-Seed,0.15,1.09,14,3
+AI0021,Intelli Systems 21,2023,UAE,Marketing AI,Series B,37.94,383.09,320,6
+AI0647,Quantum Systems 647,2022,China,Climate AI,Seed,1.09,4.24,6,10
+AI1155,Core Robotics 1155,2025,Australia,Computer Vision,Series A,2.55,13.87,20,4
+AI0832,Cognify Labs 832,2022,South Korea,Healthcare AI,Series A,18.94,163.18,72,6
+AI0563,Vision Analytics 563,2024,India,Computer Vision,Series B,18.98,130.22,53,12
+AI1190,Cognify AI 1190,2025,South Korea,FinTech AI,Pre-Seed,-0.67,5.64,19,14
+AI0687,Neural Analytics 687,2023,Germany,Healthcare AI,Series A,7.79,35.31,50,17
+AI0958,Vision Tech 958,2018,Canada,Computer Vision,Seed,0.47,3.12,26,16
+AI0190,Quantum Analytics 190,2023,Singapore,Autonomous Vehicles,Series C,77.71,605.91,548,10
+AI0976,Vertex Systems 976,2019,South Korea,Generative AI,Series C,38.74,460.03,702,13
+AI0700,Future AI 700,2020,Canada,Computer Vision,Seed,0.4,4.44,7,14
+AI0511,Vertex Tech 511,2018,UAE,Robotics,Seed,1.09,10.09,18,17
+AI1083,Astra Intelligence 1083,2022,Australia,Generative AI,Series A,4.96,22.43,19,11
+AI0475,NexGen Labs 475,2020,India,Climate AI,Pre-Seed,0.6,4.6,14,10
+AI0857,Synth Systems 857,2020,France,Retail AI,Seed,0.5,5.39,13,11
+AI0748,Vertex AI 748,2024,,Autonomous Vehicles,Series B,17.54,188.12,91,9
+AI0253,Quantum Analytics 253,2021,China,Retail AI,Series B,7.23,79.07,46,2
+AI0022,Nova Analytics 22,2022,Japan,Autonomous Vehicles,Series B,15.71,154.98,92,10
+AI0460,Orbit Analytics 460,2020,Brazil,Computer Vision,Pre-Seed,0.39,2.36,19,4
+AI1185,Alpha Labs 1185,2025,UK,NLP,Series B,19.11,89.38,97,3
+AI0277,Intelli Robotics 277,2018,UAE,Climate AI,Pre-Seed,0.21,1.03,4,11
+AI0956,NexGen Analytics 956,2020,Japan,Cybersecurity AI,Seed,1.01,8.93,6,6
+AI0386,Deep Analytics 386,2025,Netherlands,Healthcare AI,Series B,75.45,744.41,502,16
+AI0806,Mind Tech 806,2021,USA,Autonomous Vehicles,Series B,15.41,101.64,181,12
+AI0344,Core AI 344,2019,UAE,Agriculture AI,Series C,33.34,119.96,713,8
+AI0770,Intelli Systems 770,2018,Japan,Climate AI,Seed,1.16,7.81,14,10
+AI0131,Astra Systems 131,2021,South Korea,Autonomous Vehicles,Seed,1.95,17.31,16,12
+AI0872,Alpha AI 872,2025,USA,Healthcare AI,Series C,26.43,143.91,297,7
+AI1124,Vision Robotics 1124,2024,China,Generative AI,Seed,4.16,27.31,68,1
+AI0088,Nova AI 88,2018,Netherlands,AI Infrastructure,Pre-Seed,0.18,1.04,20,6
+AI0331,Orbit Systems 331,2018,Brazil,Marketing AI,Seed,1.51,11.52,21,1
+AI0467,Orbit AI 467,2025,South Korea,Healthcare AI,Seed,1.29,8.87,9,4
+AI0122,Deep Intelligence 122,2022,Australia,Agriculture AI,Series C,23.99,243.25,107,10
+AI1045,NexGen Systems 1045,2023,Switzerland,Legal AI,Late Stage,536.69,2116.1,1768,7
+AI1096,Vertex Analytics 1096,2019,Israel,Legal AI,Series C,77.65,845.67,391,15
+AI1131,Alpha Systems 1131,2019,China,Marketing AI,Series C,,113.56,51,12
+AI0861,Logic Robotics 861,2021,France,Agriculture AI,Pre-Seed,0.15,0.54,17,12
+AI1127,Vertex Analytics 1127,2021,South Korea,Cybersecurity AI,Series B,11.41,78.12,11,7
